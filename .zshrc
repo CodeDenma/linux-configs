@@ -2,6 +2,7 @@
 export PATH=$HOME/bin:/usr/local/bin:$PATH
 # export PATH=$PATH:/bin/bash
 
+
 # Path to your oh-my-zsh installation.
 export ZSH="$HOME/.oh-my-zsh"
 
@@ -10,7 +11,8 @@ export ZSH="$HOME/.oh-my-zsh"
 # to know which specific one was loaded, run: echo $RANDOM_THEME
 # See https://github.com/ohmyzsh/ohmyzsh/wiki/Themes
 # ZSH_THEME="robbyrussell"
-ZSH_THEME="random"
+# ZSH_THEME="random"
+ZSH_THEME="josh"
 
 # Set list of themes to pick from when loading at random
 # Setting this variable when ZSH_THEME=random will cause zsh to load
@@ -110,6 +112,8 @@ alias vimrc="vim ~/.vimrc"
 alias lazyrc="nvim ~/.config/nvim/"
 alias py="python3"
 
+alias alsa="alsamixer"
+
 export NVM_DIR="$HOME/.nvm"
 [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
 [ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
@@ -117,3 +121,15 @@ export NVM_DIR="$HOME/.nvm"
 
 export VISUAL=nvim
 export EDITOR="$VISUAL"
+
+if command -v tmux &> /dev/null && [ -z "$TMUX" ]; then
+    tmux attach -t default || tmux new -s default
+fi
+
+
+# Load Angular CLI autocompletion.
+source <(ng completion script)
+
+
+# Load Angular CLI autocompletion.
+source <(ng completion script)
