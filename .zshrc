@@ -111,8 +111,10 @@ alias zshrc="nvim ~/.zshrc"
 alias vimrc="vim ~/.vimrc"
 alias lazyrc="nvim ~/.config/nvim/"
 alias py="python3"
+alias lg="lazygit"
 
 alias alsa="alsamixer"
+alias audio="alsamixer"
 
 export NVM_DIR="$HOME/.nvm"
 [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
@@ -122,9 +124,9 @@ export NVM_DIR="$HOME/.nvm"
 export VISUAL=nvim
 export EDITOR="$VISUAL"
 
-if command -v tmux &> /dev/null && [ -z "$TMUX" ]; then
-    tmux attach -t default || tmux new -s default
-fi
+# if command -v tmux &> /dev/null && [ -z "$TMUX" ]; then
+#     tmux attach -t default || tmux new -s default
+# fi
 
 
 # Load Angular CLI autocompletion.
