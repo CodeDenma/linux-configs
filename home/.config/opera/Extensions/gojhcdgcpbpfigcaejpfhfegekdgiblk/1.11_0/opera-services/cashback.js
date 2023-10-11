@@ -1,1 +1,0 @@
-"use strict";window.chrome.runtime.onMessage.addListener((e=>{const t=new Map([["wallet:activationRejected","You have rejected wallet onboarding"],["wallet:activationCompleted","You have successfully onboarded to Opera Wallet!"]]),a=t.get(e);a&&window.alert(a)}));
