@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Exec=ibus-daemon -drx
+X-GNOME-Autostart-enabled=false
+NoDisplay=false
+Hidden=false
+Name[en_US]=IBus
+Comment[en_US]=No description
+X-GNOME-Autostart-Delay=0

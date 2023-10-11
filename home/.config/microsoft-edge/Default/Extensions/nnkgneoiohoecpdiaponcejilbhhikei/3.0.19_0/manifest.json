@@ -1,0 +1,60 @@
+{
+   "background": {
+      "persistent": false,
+      "scripts": [ "background.bundle.js" ]
+   },
+   "commands": {
+      "_execute_page_action": {
+         "suggested_key": {
+            "default": "Ctrl+Shift+E"
+         }
+      },
+      "devtools-bottom": {
+         "description": "DevTools window to bottom"
+      },
+      "devtools-left": {
+         "description": "DevTools window to left"
+      },
+      "devtools-remote": {
+         "description": "Remote DevTools"
+      },
+      "devtools-right": {
+         "description": "DevTools window to right"
+      }
+   },
+   "content_scripts": [ {
+      "all_frames": true,
+      "exclude_globs": [ "https://www.google*" ],
+      "js": [ "content.bundle.js", "pagewrap.bundle.js" ],
+      "matches": [ "\u003Call_urls>" ],
+      "run_at": "document_start"
+   } ],
+   "content_security_policy": "script-src 'self' 'unsafe-eval'; object-src 'self'; style-src * 'unsafe-inline'; img-src 'self' data:;",
+   "description": "Redux DevTools for debugging application's state changes.",
+   "devtools_page": "devtools.html",
+   "externally_connectable": {
+      "ids": [ "*" ]
+   },
+   "homepage_url": "https://github.com/reduxjs/redux-devtools",
+   "icons": {
+      "128": "img/logo/128x128.png",
+      "16": "img/logo/16x16.png",
+      "48": "img/logo/48x48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAwdT6ygDzGQmg5LxwNdqXJIYW1Fz07dQGweR1ub46ZrZ6J1geXEb6gjlfc7wk4SNaSs8WtsScWt5MHi/ikPop7L30RJQhT0APXDBy9BSbihvNNlI65BePv8HQfIU09hfpIHcqSlQKNVgwb6xovfeokZJbNxekIr8Ac3E8P8mwvCoDsKoAOldrOm1mdy8I2j3No0+bK1qVKCVONUFkCaae57d3uErNpkSh+GPV4qVJK84TzQd/joWNMMAvMNjxDtdQhkjwzJ612o0oWGqgwWReeddTFTCIuxun+3T6vznFctgTWkcMLNdU/Ej/aSVcGsNJghf1mQVwLIMbOyGczOZKwQIDAQAB",
+   "manifest_version": 2,
+   "name": "Redux DevTools",
+   "options_ui": {
+      "chrome_style": true,
+      "page": "options.html"
+   },
+   "page_action": {
+      "default_icon": "img/logo/gray.png",
+      "default_popup": "window.html#popup",
+      "default_title": "Redux DevTools"
+   },
+   "permissions": [ "notifications", "contextMenus", "storage", "file:///*", "http://*/*", "https://*/*" ],
+   "update_url": "https://edge.microsoft.com/extensionwebstorebase/v1/crx",
+   "version": "3.0.19",
+   "web_accessible_resources": [ "page.bundle.js" ]
+}

@@ -1,0 +1,11 @@
+2023-04-22 00:01:46.448 [info] Reading sessions from secret storage...
+2023-04-22 00:01:46.457 [info] Got 1 stored sessions
+2023-04-22 00:01:46.457 [info] Refreshing token for scopes: email offline_access openid profile
+2023-04-22 00:01:46.860 [info] Setting token for scopes: email offline_access openid profile
+2023-04-22 00:01:46.860 [info] Token refresh success for scopes: email offline_access openid profile
+2023-04-22 00:01:46.861 [info] Stored token for scopes: email offline_access openid profile
+2023-04-22 00:01:46.866 [info] Getting sessions for all scopes...
+2023-04-22 00:01:46.866 [info] Got 1 sessions for all scopes...
+2023-04-22 00:01:46.868 [info] Getting sessions for the following scopes: email offline_access openid profile
+2023-04-22 00:01:46.868 [info] Got 1 sessions for scopes: email offline_access openid profile
+2023-04-22 00:01:46.868 [info] Token available from cache (for scopes email offline_access openid profile), expires in 4523991 milliseconds

@@ -1,0 +1,48 @@
+2023-04-19 19:53:16.539 [info] Log level: Info
+2023-04-19 19:53:16.539 [info] Validating found git in: "git"
+2023-04-19 19:53:16.539 [info] Using git "2.34.1" from "git"
+2023-04-19 19:53:16.539 [info] > git rev-parse --show-toplevel [3ms]
+2023-04-19 19:53:16.557 [info] > git rev-parse --git-dir --git-common-dir [14ms]
+2023-04-19 19:53:16.563 [info] Open repository: /home/codedenma/personal/adv360-config
+2023-04-19 19:53:16.576 [info] > git rev-parse --show-toplevel [8ms]
+2023-04-19 19:53:16.584 [info] > git rev-parse --show-toplevel [5ms]
+2023-04-19 19:53:16.587 [info] > git config --get commit.template [11ms]
+2023-04-19 19:53:16.588 [info] > git rev-parse --show-toplevel [2ms]
+2023-04-19 19:53:16.603 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/V2.0 refs/remotes/V2.0 [10ms]
+2023-04-19 19:53:16.607 [info] > git rev-parse --show-toplevel [16ms]
+2023-04-19 19:53:16.613 [info] > git status -z -uall [7ms]
+2023-04-19 19:53:16.613 [info] > git rev-parse --show-toplevel [4ms]
+2023-04-19 19:53:16.626 [info] > git rev-parse --show-toplevel [9ms]
+2023-04-19 19:53:16.630 [info] > git rev-parse --show-toplevel [1ms]
+2023-04-19 19:53:16.633 [info] > git config --get commit.template [7ms]
+2023-04-19 19:53:16.633 [info] > git rev-parse --show-toplevel [1ms]
+2023-04-19 19:53:16.641 [info] > git rev-parse --show-toplevel [5ms]
+2023-04-19 19:53:16.645 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/V2.0 refs/remotes/V2.0 [5ms]
+2023-04-19 19:53:16.657 [info] > git status -z -uall [9ms]
+2023-04-19 19:53:17.096 [info] > git check-ignore -v -z --stdin [1ms]
+2023-04-19 19:53:43.489 [info] > git check-ignore -v -z --stdin [1ms]
+2023-04-19 19:53:44.378 [info] > git show --textconv :config/adv360_right.keymap [3ms]
+2023-04-19 19:53:44.379 [info] > git ls-files --stage -- /home/codedenma/personal/adv360-config/config/adv360_right.keymap [1ms]
+2023-04-19 19:53:44.382 [info] > git cat-file -s bc222c6dad9c87abc024af78b1b0bfc457279f3d [1ms]
+2023-04-19 19:53:44.938 [info] > git show --textconv :config/adv360_left.keymap [3ms]
+2023-04-19 19:53:44.938 [info] > git ls-files --stage -- /home/codedenma/personal/adv360-config/config/adv360_left.keymap [1ms]
+2023-04-19 19:53:44.941 [info] > git cat-file -s bc222c6dad9c87abc024af78b1b0bfc457279f3d [0ms]
+2023-04-19 19:53:45.213 [info] > git show --textconv :config/adv360_right.keymap [16ms]
+2023-04-19 19:53:45.217 [info] > git ls-files --stage -- /home/codedenma/personal/adv360-config/config/adv360_right.keymap [5ms]
+2023-04-19 19:53:45.233 [info] > git cat-file -s bc222c6dad9c87abc024af78b1b0bfc457279f3d [3ms]
+2023-04-19 19:53:45.596 [info] > git show --textconv :config/adv360.keymap [11ms]
+2023-04-19 19:53:45.599 [info] > git ls-files --stage -- /home/codedenma/personal/adv360-config/config/adv360.keymap [4ms]
+2023-04-19 19:53:45.605 [info] > git cat-file -s bff9b0ce315ec279b46ee48b7c16239591a12987 [1ms]
+2023-04-19 19:55:15.054 [info] > git show --textconv :config/adv360_left.keymap [3ms]
+2023-04-19 19:55:15.054 [info] > git ls-files --stage -- /home/codedenma/personal/adv360-config/config/adv360_left.keymap [0ms]
+2023-04-19 19:55:15.057 [info] > git cat-file -s bc222c6dad9c87abc024af78b1b0bfc457279f3d [0ms]
+2023-04-19 19:55:15.755 [info] > git show --textconv :config/adv360_right.keymap [16ms]
+2023-04-19 19:55:15.758 [info] > git ls-files --stage -- /home/codedenma/personal/adv360-config/config/adv360_right.keymap [5ms]
+2023-04-19 19:55:15.774 [info] > git cat-file -s bc222c6dad9c87abc024af78b1b0bfc457279f3d [4ms]
+2023-04-19 19:55:17.122 [info] > git show --textconv :config/adv360.keymap [5ms]
+2023-04-19 19:55:17.123 [info] > git ls-files --stage -- /home/codedenma/personal/adv360-config/config/adv360.keymap [1ms]
+2023-04-19 19:55:17.128 [info] > git cat-file -s bff9b0ce315ec279b46ee48b7c16239591a12987 [1ms]
+2023-04-19 19:56:55.377 [warning] ENOENT: no such file or directory, open '/home/codedenma/personal/adv360-config/.git/HEAD'
+2023-04-19 19:56:55.382 [warning] getRemotes() - ENOENT: no such file or directory, open '/home/codedenma/personal/adv360-config/.git/config'
+2023-04-19 19:56:55.388 [warning] ENOENT: no such file or directory, open '/home/codedenma/personal/adv360-config/.git/HEAD'
+2023-04-19 19:56:55.394 [warning] getRemotes() - ENOENT: no such file or directory, open '/home/codedenma/personal/adv360-config/.git/config'

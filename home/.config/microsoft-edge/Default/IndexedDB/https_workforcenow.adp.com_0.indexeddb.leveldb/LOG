@@ -1,0 +1,6 @@
+2023/06/16-23:21:49.770 4d14 Creating DB /home/codedenma/.config/microsoft-edge/Default/IndexedDB/https_workforcenow.adp.com_0.indexeddb.leveldb since it was missing.
+2023/06/16-23:21:49.774 4d14 Reusing MANIFEST /home/codedenma/.config/microsoft-edge/Default/IndexedDB/https_workforcenow.adp.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/06/16-23:32:22.493 4d15 Level-0 table #5: started
+2023/06/16-23:32:22.494 4d15 Level-0 table #5: 1216 bytes OK
+2023/06/16-23:32:22.496 4d15 Delete type=0 #3
+2023/06/16-23:32:22.496 4d15 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

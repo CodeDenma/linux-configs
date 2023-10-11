@@ -1,0 +1,25 @@
+2023-07-23 02:46:34.668 [info] Log level: Info
+2023-07-23 02:46:34.668 [info] Validating found git in: "git"
+2023-07-23 02:46:34.668 [info] Using git "2.34.1" from "git"
+2023-07-23 02:46:34.668 [info] > git rev-parse --show-toplevel [4ms]
+2023-07-23 02:46:34.668 [info] > git rev-parse --git-dir --git-common-dir [3ms]
+2023-07-23 02:46:34.668 [info] Open repository: /home/codedenma/personal/adv360-config
+2023-07-23 02:46:34.668 [info] > git rev-parse --show-toplevel [6ms]
+2023-07-23 02:46:34.669 [info] > git rev-parse --show-toplevel [23ms]
+2023-07-23 02:46:34.673 [info] > git config --get commit.template [30ms]
+2023-07-23 02:46:34.682 [info] > git rev-parse --show-toplevel [10ms]
+2023-07-23 02:46:34.692 [info] > git rev-parse --show-toplevel [7ms]
+2023-07-23 02:46:34.697 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/V2.0 refs/remotes/V2.0 [6ms]
+2023-07-23 02:46:34.701 [info] > git rev-parse --show-toplevel [5ms]
+2023-07-23 02:46:34.706 [info] > git status -z -uall [6ms]
+2023-07-23 02:46:34.706 [info] > git rev-parse --show-toplevel [2ms]
+2023-07-23 02:46:34.715 [info] > git rev-parse --show-toplevel [6ms]
+2023-07-23 02:46:34.719 [info] > git config --get commit.template [4ms]
+2023-07-23 02:46:34.725 [info] > git rev-parse --show-toplevel [7ms]
+2023-07-23 02:46:34.731 [info] > git rev-parse --show-toplevel [3ms]
+2023-07-23 02:46:34.734 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/V2.0 refs/remotes/V2.0 [3ms]
+2023-07-23 02:46:34.740 [info] > git status -z -uall [3ms]
+2023-07-23 02:46:34.975 [info] > git show --textconv :README.md [16ms]
+2023-07-23 02:46:34.977 [info] > git ls-files --stage -- /home/codedenma/personal/adv360-config/README.md [3ms]
+2023-07-23 02:46:34.985 [info] > git cat-file -s f284f9e87c871d75f7bd26a831ecdfee9b40ff44 [1ms]
+2023-07-23 02:46:35.175 [info] > git check-ignore -v -z --stdin [1ms]

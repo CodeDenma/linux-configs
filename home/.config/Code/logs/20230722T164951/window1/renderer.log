@@ -1,0 +1,52 @@
+2023-07-22 16:49:55.794 [info] [perf] Render performance baseline is 30ms
+2023-07-22 16:51:24.127 [error] Unable to read file '/home/codedenma/personal/adv360-config/config/adv360.keymap' (Error: File not modified since): Error: Unable to read file '/home/codedenma/personal/adv360-config/config/adv360.keymap' (Error: File not modified since)
+    at e.$op.w (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:627:16321)
+    at e.$op.v (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:627:16209)
+    at async e.$i9b.H (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2312:36716)
+    at async e.$i9b.readStream (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2312:36470)
+    at async Qs.zb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2301:28988)
+    at async Qs.resolve (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2301:27435)
+    at async vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2312:32790
+2023-07-22 16:51:48.936 [error] ENOENT: no such file or directory, open '/home/codedenma/.config/Code/User/globalStorage/vscodevim.vim/.registers': Error: ENOENT: no such file or directory, open '/home/codedenma/.config/Code/User/globalStorage/vscodevim.vim/.registers'
+2023-07-22 16:52:45.489 [error] Unable to read file '/home/codedenma/personal/adv360-config/config/adv360.keymap' (Error: File not modified since): Error: Unable to read file '/home/codedenma/personal/adv360-config/config/adv360.keymap' (Error: File not modified since)
+    at e.$op.w (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:627:16321)
+    at e.$op.v (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:627:16209)
+    at async e.$i9b.H (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2312:36716)
+    at async e.$i9b.readStream (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2312:36470)
+    at async Qs.zb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2301:28988)
+    at async Qs.resolve (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2301:27435)
+    at async vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2312:32790
+2023-07-22 16:53:02.042 [info] [perf] Render performance baseline is 28ms
+2023-07-22 16:54:26.018 [error] Unable to read file '/home/codedenma/personal/adv360-config/config/adv360.keymap' (Error: File not modified since): Error: Unable to read file '/home/codedenma/personal/adv360-config/config/adv360.keymap' (Error: File not modified since)
+    at e.$op.w (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:627:16321)
+    at e.$op.v (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:627:16209)
+    at async e.$i9b.H (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2312:36716)
+    at async e.$i9b.readStream (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2312:36470)
+    at async Qs.zb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2301:28988)
+    at async Qs.resolve (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2301:27435)
+    at async vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2312:32790
+2023-07-22 16:58:26.533 [error] ENOENT: no such file or directory, open '/home/codedenma/.config/Code/User/globalStorage/vscodevim.vim/.registers': Error: ENOENT: no such file or directory, open '/home/codedenma/.config/Code/User/globalStorage/vscodevim.vim/.registers'
+2023-07-22 17:08:27.295 [error] Unable to read file '/home/codedenma/personal/adv360-config/config/adv360.keymap' (Error: File not modified since): Error: Unable to read file '/home/codedenma/personal/adv360-config/config/adv360.keymap' (Error: File not modified since)
+    at e.$op.w (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:627:16321)
+    at e.$op.v (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:627:16209)
+    at async e.$i9b.H (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2312:36716)
+    at async e.$i9b.readStream (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2312:36470)
+    at async Qs.zb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2301:28988)
+    at async Qs.resolve (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2301:27435)
+    at async vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2312:32790
+2023-07-22 17:08:45.173 [error] Unable to read file '/home/codedenma/personal/adv360-config/config/adv360.keymap' (Error: File not modified since): Error: Unable to read file '/home/codedenma/personal/adv360-config/config/adv360.keymap' (Error: File not modified since)
+    at e.$op.w (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:627:16321)
+    at e.$op.v (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:627:16209)
+    at async e.$i9b.H (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2312:36716)
+    at async e.$i9b.readStream (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2312:36470)
+    at async Qs.zb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2301:28988)
+    at async Qs.resolve (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2301:27435)
+    at async vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2312:32790
+2023-07-22 17:13:54.315 [error] Unable to read file '/home/codedenma/personal/adv360-config/README.md' (Error: File not modified since): Error: Unable to read file '/home/codedenma/personal/adv360-config/README.md' (Error: File not modified since)
+    at e.$op.w (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:627:16321)
+    at e.$op.v (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:627:16209)
+    at async e.$i9b.H (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2312:36716)
+    at async e.$i9b.readStream (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2312:36470)
+    at async Qs.zb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2301:28988)
+    at async Qs.resolve (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2301:27435)
+    at async vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2312:32790

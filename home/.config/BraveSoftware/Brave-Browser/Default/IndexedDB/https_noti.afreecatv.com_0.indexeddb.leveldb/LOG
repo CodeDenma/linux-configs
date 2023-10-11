@@ -1,0 +1,14 @@
+2023/04/22-22:11:16.048 4b2f Reusing MANIFEST /home/codedenma/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_noti.afreecatv.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/04/22-22:11:16.048 4b2f Recovering log #29
+2023/04/22-22:11:16.048 4b2f Reusing old log /home/codedenma/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_noti.afreecatv.com_0.indexeddb.leveldb/000029.log 
+2023/04/22-22:11:16.048 4b2f Delete type=2 #27
+2023/04/22-22:11:16.072 4b2e Level-0 table #34: started
+2023/04/22-22:11:16.073 4b2e Level-0 table #34: 622 bytes OK
+2023/04/22-22:11:16.074 4b2e Delete type=0 #29
+2023/04/22-22:11:16.074 4b2e Manual compaction at level-0 from '\x00\x08\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x09\x00\x00\x00' @ 0 : 0; will stop at '\x00\x08\x00\x00\x05' @ 142 : 1
+2023/04/22-22:11:16.074 4b2e Compacting 1@0 + 1@1 files
+2023/04/22-22:11:16.076 4b2e Generated table #35@0: 4 keys, 259 bytes
+2023/04/22-22:11:16.076 4b2e Compacted 1@0 + 1@1 files => 259 bytes
+2023/04/22-22:11:16.077 4b2e compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/04/22-22:11:16.077 4b2e Delete type=2 #34
+2023/04/22-22:11:16.077 4b2e Manual compaction at level-0 from '\x00\x08\x00\x00\x05' @ 142 : 1 .. '\x00\x09\x00\x00\x00' @ 0 : 0; will stop at (end)

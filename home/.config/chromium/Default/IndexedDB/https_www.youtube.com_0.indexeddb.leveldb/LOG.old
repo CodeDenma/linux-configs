@@ -1,0 +1,21 @@
+2023/09/03-00:33:47.777 2a94a Reusing MANIFEST /home/codedenma/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/09/03-00:33:47.777 2a94a Recovering log #79
+2023/09/03-00:33:47.790 2a94a Reusing old log /home/codedenma/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000079.log 
+2023/09/03-00:38:36.896 2a94a Level-0 table #84: started
+2023/09/03-00:38:36.922 2a94a Level-0 table #84: 1228541 bytes OK
+2023/09/03-00:38:36.935 2a94a Delete type=0 #79
+2023/09/03-00:38:58.581 2a955 Compacting 1@1 + 1@2 files
+2023/09/03-00:38:58.604 2a955 Generated table #85@1: 381 keys, 56111 bytes
+2023/09/03-00:38:58.604 2a955 Compacted 1@1 + 1@2 files => 56111 bytes
+2023/09/03-00:38:58.624 2a955 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/09/03-00:38:58.624 2a955 Delete type=2 #81
+2023/09/03-00:38:58.624 2a955 Delete type=2 #84
+2023/09/03-00:59:01.482 2a94b Level-0 table #87: started
+2023/09/03-00:59:01.497 2a94b Level-0 table #87: 1125443 bytes OK
+2023/09/03-00:59:01.499 2a94b Delete type=0 #83
+2023/09/03-01:00:31.795 2a94b Compacting 1@1 + 1@2 files
+2023/09/03-01:00:31.800 2a94b Generated table #88@1: 634 keys, 57162 bytes
+2023/09/03-01:00:31.800 2a94b Compacted 1@1 + 1@2 files => 57162 bytes
+2023/09/03-01:00:31.802 2a94b compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/09/03-01:00:31.802 2a94b Delete type=2 #85
+2023/09/03-01:00:31.802 2a94b Delete type=2 #87

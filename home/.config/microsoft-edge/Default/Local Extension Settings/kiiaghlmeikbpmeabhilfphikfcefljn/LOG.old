@@ -1,0 +1,18 @@
+2023/08/11-23:29:53.975 d23 Reusing MANIFEST /home/codedenma/.config/microsoft-edge/Default/Local Extension Settings/kiiaghlmeikbpmeabhilfphikfcefljn/MANIFEST-000001
+2023/08/11-23:29:53.975 d23 Recovering log #54
+2023/08/11-23:29:53.977 d23 Reusing old log /home/codedenma/.config/microsoft-edge/Default/Local Extension Settings/kiiaghlmeikbpmeabhilfphikfcefljn/000054.log 
+2023/08/11-23:29:59.036 d2f Level-0 table #58: started
+2023/08/11-23:29:59.045 d2f Level-0 table #58: 4648465 bytes OK
+2023/08/11-23:29:59.047 d2f Delete type=0 #54
+2023/08/11-23:29:59.048 d2f Compacting 4@0 + 1@1 files
+2023/08/11-23:29:59.060 d2f Generated table #59@0: 11 keys, 698197 bytes
+2023/08/11-23:29:59.060 d2f Compacted 4@0 + 1@1 files => 698197 bytes
+2023/08/11-23:29:59.061 d2f compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/08/11-23:29:59.062 d2f Delete type=2 #53
+2023/08/11-23:29:59.062 d2f Delete type=2 #55
+2023/08/11-23:29:59.062 d2f Delete type=2 #51
+2023/08/11-23:29:59.062 d2f Delete type=2 #49
+2023/08/11-23:29:59.062 d2f Delete type=2 #58
+2023/08/11-23:30:01.798 d24 Level-0 table #61: started
+2023/08/11-23:30:01.806 d24 Level-0 table #61: 4603231 bytes OK
+2023/08/11-23:30:01.808 d24 Delete type=0 #57

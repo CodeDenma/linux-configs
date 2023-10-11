@@ -1,0 +1,79 @@
+2023-06-18 22:40:39.729 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-selfhost-test-provider' wants API proposal 'testContinuousRun' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2023-06-18 22:40:43.688 [info] [perf] Render performance baseline is 56ms
+2023-06-18 22:43:03.438 [error] Unable to read file '/home/codedenma/personal/adv360-config/config/adv360.keymap' (Error: File not modified since): Error: Unable to read file '/home/codedenma/personal/adv360-config/config/adv360.keymap' (Error: File not modified since)
+    at e.FileService.w (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:624:17669)
+    at e.FileService.v (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:624:17501)
+    at async e.NativeTextFileService.H (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2307:38305)
+    at async e.NativeTextFileService.readStream (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2307:38000)
+    at async Hs.Ab (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2298:54368)
+    at async Hs.resolve (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2298:52773)
+    at async vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2307:34023
+2023-06-18 22:48:03.873 [error] Unable to read file '/home/codedenma/personal/adv360-config/README.md' (Error: File not modified since): Error: Unable to read file '/home/codedenma/personal/adv360-config/README.md' (Error: File not modified since)
+    at e.FileService.w (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:624:17669)
+    at e.FileService.v (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:624:17501)
+    at async e.NativeTextFileService.H (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2307:38305)
+    at async e.NativeTextFileService.readStream (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2307:38000)
+    at async Hs.Ab (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2298:54368)
+    at async Hs.resolve (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2298:52773)
+    at async vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2307:34023
+2023-06-19 00:33:13.928 [error] Assertion Failed: Error: Assertion Failed
+    at D (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:11:9896)
+    at new r (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1041:10074)
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1041:13755
+    at Array.map (<anonymous>)
+    at e.MergeDiffComputer.computeDiff (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1041:13748)
+2023-06-19 00:38:11.525 [error] Assertion Failed: Error: Assertion Failed
+    at D (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:11:9896)
+    at new r (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1041:10074)
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1041:13755
+    at Array.map (<anonymous>)
+    at e.MergeDiffComputer.computeDiff (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1041:13748)
+2023-06-19 00:43:07.352 [error] [Extension Host] FAILED to read HEAD, MERGE_HEAD commits
+2023-06-19 00:43:07.407 [error] Assertion Failed: Error: Assertion Failed
+    at D (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:11:9896)
+    at new r (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1041:10074)
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1041:13755
+    at Array.map (<anonymous>)
+    at e.MergeDiffComputer.computeDiff (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1041:13748)
+2023-06-19 00:43:27.800 [error] [Extension Host] FAILED to read HEAD, MERGE_HEAD commits
+2023-06-19 00:43:27.846 [error] Assertion Failed: Error: Assertion Failed
+    at D (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:11:9896)
+    at new r (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1041:10074)
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1041:13755
+    at Array.map (<anonymous>)
+    at e.MergeDiffComputer.computeDiff (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1041:13748)
+2023-06-19 00:43:32.552 [error] Assertion Failed: Error: Assertion Failed
+    at D (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:11:9896)
+    at new r (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1041:10074)
+    at r.addOutputLineDelta (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1041:10562)
+    at C.applyEditRelativeToOriginal (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1042:4905)
+    at e.MergeEditorModel.setState (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1042:14337)
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1046:2823
+    at I (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:67:9890)
+    at Object.action (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1046:2816)
+    at HTMLAnchorElement.onclick (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1046:4417)
+2023-06-19 00:44:37.254 [error] [Extension Host] FAILED to read HEAD, MERGE_HEAD commits
+2023-06-19 00:44:37.304 [error] Assertion Failed: Error: Assertion Failed
+    at D (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:11:9896)
+    at new r (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1041:10074)
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1041:13755
+    at Array.map (<anonymous>)
+    at e.MergeDiffComputer.computeDiff (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1041:13748)
+2023-06-19 00:47:27.242 [error] [Extension Host] FAILED to read HEAD, MERGE_HEAD commits
+2023-06-19 00:47:34.933 [error] [Extension Host] FAILED to read HEAD, MERGE_HEAD commits
+2023-06-19 00:47:34.980 [error] Assertion Failed: Error: Assertion Failed
+    at D (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:11:9896)
+    at new r (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1041:10074)
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1041:13755
+    at Array.map (<anonymous>)
+    at e.MergeDiffComputer.computeDiff (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1041:13748)
+2023-06-19 00:47:38.990 [error] Assertion Failed: Error: Assertion Failed
+    at D (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:11:9896)
+    at new r (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1041:10074)
+    at r.addOutputLineDelta (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1041:10562)
+    at C.applyEditRelativeToOriginal (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1042:4905)
+    at e.MergeEditorModel.setState (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1042:14337)
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1046:2823
+    at I (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:67:9890)
+    at Object.action (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1046:2816)
+    at HTMLAnchorElement.onclick (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1046:4417)

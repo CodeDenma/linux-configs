@@ -1,0 +1,1 @@
+{"ref":"2d7c18cf-b962-43d2-84f1-4944455b7b57","syncData":{"version":2,"machineId":"f4ca3161-141d-412b-b1a9-810815a3527b","content":"{\"linux\":\"// Place your key bindings in this file to override the defaultsauto[]\\n[\\n    {\\n        \\\"key\\\": \\\"ctrl+b z\\\",\\n        \\\"command\\\": \\\"workbench.action.toggleZenMode\\\"\\n    }\\n]\"}"}}

@@ -1,0 +1,10 @@
+[2023-07-23 02:47:20.073] Starting Git Graph ...
+[2023-07-23 02:47:20.097] Using git (version: 2.34.1)
+[2023-07-23 02:47:20.103] Started Git Graph - Ready to use!
+[2023-07-23 02:47:20.103] Searching workspace for new repos ...
+[2023-07-23 02:47:20.105] > git rev-parse --show-toplevel
+[2023-07-23 02:47:20.130] Completed searching workspace for new repos
+[2023-07-23 02:47:20.170] Successfully set Visual Studio Code Context "git-graph:codiconsSupported" to "true"
+[2023-07-23 03:23:53.639] > git rev-parse --show-toplevel
+[2023-07-23 03:23:53.640] Added new repo: /home/codedenma/.config/tmux/plugins/tmux-power
+[2023-07-23 03:23:53.641] Showing "Git Graph" Status Bar Item

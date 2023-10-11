@@ -1,0 +1,108 @@
+2023-07-22 16:49:52.974 [info] Extension host with pid 30956 started
+2023-07-22 16:49:52.975 [info] Skipping acquiring lock for /home/codedenma/.config/Code/User/workspaceStorage/d2ca01eeef2f9278789a3aa8509d1e4d.
+2023-07-22 16:49:53.065 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-07-22 16:49:53.116 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-07-22 16:49:53.119 [info] ExtensionService#_doActivateExtension mhutchie.git-graph, startup: true, activationEvent: '*'
+2023-07-22 16:49:53.162 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-07-22 16:49:53.225 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-07-22 16:49:53.306 [info] Eager extensions activated
+2023-07-22 16:49:53.318 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-07-22 16:49:53.320 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-07-22 16:49:53.336 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2023-07-22 16:49:53.429 [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+2023-07-22 16:50:03.012 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-07-22 16:50:03.053 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-07-22 16:51:47.835 [info] ExtensionService#_doActivateExtension vscodevim.vim, startup: false, activationEvent: '*'
+2023-07-22 16:51:48.935 [error] Error: ENOENT: no such file or directory, open '/home/codedenma/.config/Code/User/globalStorage/vscodevim.vim/.registers'
+2023-07-22 16:52:58.821 [info] Extension host terminating: renderer closed the MessagePort
+2023-07-22 16:52:58.842 [error] Canceled: Canceled
+	at new h (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:99:42413)
+	at t.O (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:11236)
+	at U.<computed>.q.charCodeAt.U.<computed> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:8675)
+	at e.$vL.g (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:99:63549)
+	at e.$vL.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:99:62973)
+	at P.registerCommand.description (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:99:62280)
+	at e.$vL.h (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:99:64085)
+	at e.$vL.g (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:99:63073)
+	at e.$vL.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:99:62973)
+	at Object.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:117:20971)
+	at i.D [as value] (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1260424)
+	at p.w (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:60:1902)
+	at p.x (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:60:1972)
+	at p.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:60:2188)
+	at Object.f [as dispose] (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1275972)
+	at /usr/share/code/resources/app/extensions/git/dist/main.js:2:1280539
+	at Array.forEach (<anonymous>)
+	at g.dispose (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1280525)
+	at o.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:95:4162)
+	at o.dispose (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:95:4297)
+	at o.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1262437)
+	at o.dispose (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:95:4297)
+	at S (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:10:11731)
+	at i.Z (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:113:10370)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:113:8332
+	at Array.map (<anonymous>)
+	at i.S (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:113:8319)
+	at i.terminate (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:113:8591)
+	at u.terminate (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:117:1532)
+	at E (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:127:32236)
+	at MessagePortMain.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:127:28665)
+	at MessagePortMain.emit (node:events:513:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:367) setContext undefined
+2023-07-22 16:52:58.844 [error] Canceled: Canceled
+	at new h (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:99:42413)
+	at t.O (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:11236)
+	at U.<computed>.q.charCodeAt.U.<computed> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:8675)
+	at e.$vL.g (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:99:63549)
+	at e.$vL.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:99:62973)
+	at P.registerCommand.description (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:99:62280)
+	at e.$vL.h (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:99:64085)
+	at e.$vL.g (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:99:63073)
+	at e.$vL.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:99:62973)
+	at Object.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:117:20971)
+	at set b [as b] (/usr/share/code/resources/app/extensions/github/dist/extension.js:2:675669)
+	at /usr/share/code/resources/app/extensions/github/dist/extension.js:2:676313
+	at i.value (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1347255)
+	at p.w (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:60:1902)
+	at p.x (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:60:1972)
+	at p.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:60:2188)
+	at Object.f [as dispose] (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1275972)
+	at /usr/share/code/resources/app/extensions/git/dist/main.js:2:1280539
+	at Array.forEach (<anonymous>)
+	at g.dispose (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1280525)
+	at o.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:95:4162)
+	at o.dispose (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:95:4297)
+	at o.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1262437)
+	at o.dispose (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:95:4297)
+	at S (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:10:11731)
+	at i.Z (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:113:10370)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:113:8332
+	at Array.map (<anonymous>)
+	at i.S (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:113:8319)
+	at i.terminate (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:113:8591)
+	at u.terminate (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:117:1532)
+	at E (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:127:32236)
+	at MessagePortMain.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:127:28665)
+	at MessagePortMain.emit (node:events:513:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:367) setContext undefined
+2023-07-22 16:52:58.850 [error] Error: ENOENT: no such file or directory, open '/home/codedenma/.config/Code/User/globalStorage/vscodevim.vim/.registers'
+2023-07-22 16:52:58.851 [info] Extension host with pid 30956 exiting with code 0
+2023-07-22 16:52:59.490 [info] Extension host with pid 34337 started
+2023-07-22 16:52:59.490 [info] Skipping acquiring lock for /home/codedenma/.config/Code/User/workspaceStorage/d2ca01eeef2f9278789a3aa8509d1e4d.
+2023-07-22 16:52:59.590 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-07-22 16:52:59.636 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-07-22 16:52:59.637 [info] ExtensionService#_doActivateExtension mhutchie.git-graph, startup: true, activationEvent: '*'
+2023-07-22 16:52:59.661 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-07-22 16:52:59.676 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-07-22 16:52:59.706 [info] Eager extensions activated
+2023-07-22 16:52:59.721 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-07-22 16:52:59.722 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-07-22 16:52:59.814 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2023-07-22 16:52:59.845 [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+2023-07-22 16:54:17.078 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-07-22 16:54:17.098 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-07-22 16:58:25.427 [info] ExtensionService#_doActivateExtension vscodevim.vim, startup: false, activationEvent: '*'
+2023-07-22 16:58:26.497 [error] Error: ENOENT: no such file or directory, open '/home/codedenma/.config/Code/User/globalStorage/vscodevim.vim/.registers'
+2023-07-22 17:13:44.763 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:markdown'
+2023-07-22 17:13:44.777 [info] ExtensionService#_doActivateExtension vscode.markdown-language-features, startup: false, activationEvent: 'onLanguage:markdown'
+2023-07-22 17:13:45.100 [info] ExtensionService#_doActivateExtension vscode.markdown-math, startup: false, activationEvent: 'api', root cause: vscode.markdown-language-features

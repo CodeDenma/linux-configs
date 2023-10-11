@@ -1,0 +1,34 @@
+{
+   "background": {
+      "persistent": false,
+      "scripts": [ "background.js" ]
+   },
+   "browser_action": {
+      "default_popup": "index.html"
+   },
+   "commands": {
+      "_execute_browser_action": {
+         "suggested_key": {
+            "chromeos": "Alt+C",
+            "default": "Alt+C",
+            "linux": "Alt+C",
+            "mac": "Alt+C",
+            "windows": "Alt+C"
+         }
+      }
+   },
+   "default_locale": "en_US",
+   "description": "__MSG_appDesc__",
+   "icons": {
+      "128": "icon128.png",
+      "16": "icon16.png",
+      "48": "icon48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0j8MwmhVE/evK4RPLj1poYOQApJNbQn4X4XVqcnxIO4J4wjGSAKHyKt/wtYH8Rpur1O+2aQp5qlFWXqYVRNcNQD8XSSLUfffnrKJfcj4mBjWLIA3u7MAeRTsjyVEoQUa6acaN1EYjVpZenBFNhiJlfA1M52ZqaNhIYt/CxKhnkse8UGkdUQP5sxdbne9xIQe+L2YUSIonrexqY1RPRWgb9Y+KHC0IeTMsueyrZbFTHKZ1US8NKPpKxYUOKGLK9svXaugIClKFVds5vUaImSBCZ6WXhhtAE7z6z5oJ/ekasK6by1IxW1TAlS2UnxXvgzPEZ2sskZf3ptKUPaacONwxwIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_appName__",
+   "offline_enabled": true,
+   "permissions": [ "https://www.currency.wiki/" ],
+   "update_url": "https://edge.microsoft.com/extensionwebstorebase/v1/crx",
+   "version": "1.5"
+}

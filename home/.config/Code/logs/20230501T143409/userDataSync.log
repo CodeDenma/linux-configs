@@ -1,0 +1,47 @@
+2023-05-01 14:34:10.717 [info] Using settings sync service https://vscode-sync.trafficmanager.net/
+2023-05-01 14:34:10.717 [info] Auto Sync is enabled.
+2023-05-01 14:34:10.717 [info] Auto Sync: Suspended until auth token is available.
+2023-05-01 14:34:11.011 [info] Deleting non existing profile from backup /home/codedenma/.config/Code/User/sync/extensions
+2023-05-01 14:34:11.024 [info] Deleting non existing profile from backup /home/codedenma/.config/Code/User/sync/globalState
+2023-05-01 14:34:11.050 [info] Deleting non existing profile from backup /home/codedenma/.config/Code/User/sync/keybindings
+2023-05-01 14:34:11.051 [info] Deleting non existing profile from backup /home/codedenma/.config/Code/User/sync/profiles
+2023-05-01 14:34:11.052 [info] Deleting non existing profile from backup /home/codedenma/.config/Code/User/sync/settings
+2023-05-01 14:34:11.053 [info] Deleting non existing profile from backup /home/codedenma/.config/Code/User/sync/snippets
+2023-05-01 14:34:11.053 [info] Deleting non existing profile from backup /home/codedenma/.config/Code/User/sync/tasks
+2023-05-01 14:34:11.694 [info] Auto Sync: Triggered by Interval
+2023-05-01 14:34:11.694 [info] Sync started.
+2023-05-01 14:34:11.978 [info] Settings: Last sync resource does not exist locally.
+2023-05-01 14:34:12.090 [info] Settings: No changes found during synchronizing settings.
+2023-05-01 14:34:12.093 [info] Keybindings: Last sync resource does not exist locally.
+2023-05-01 14:34:12.168 [info] Keybindings: No changes found during synchronizing keybindings.
+2023-05-01 14:34:12.171 [info] Snippets: Last sync resource does not exist locally.
+2023-05-01 14:34:12.235 [info] Snippets: No changes found during synchronizing snippets.
+2023-05-01 14:34:12.237 [info] Tasks: Last sync resource does not exist locally.
+2023-05-01 14:34:12.305 [info] Tasks: No changes found during synchronizing tasks.
+2023-05-01 14:34:12.307 [info] GlobalState: Last sync resource does not exist locally.
+2023-05-01 14:34:12.461 [info] GlobalState: No changes found during synchronizing ui state.
+2023-05-01 14:34:12.469 [info] Extensions: Last sync resource does not exist locally.
+2023-05-01 14:34:12.612 [info] Extensions: No changes found during synchronizing extensions.
+2023-05-01 14:34:12.613 [info] Profiles: Last sync resource does not exist locally.
+2023-05-01 14:34:12.688 [info] Profiles: No changes found during synchronizing profiles.
+2023-05-01 14:34:12.695 [info] Sync done. Took 1002ms
+2023-05-01 14:35:03.357 [info] Auto Sync: Triggered by Activity
+2023-05-01 14:35:03.357 [info] Sync started.
+2023-05-01 14:35:03.447 [info] Settings: No changes found during synchronizing settings.
+2023-05-01 14:35:03.462 [info] Keybindings: No changes found during synchronizing keybindings.
+2023-05-01 14:35:03.478 [info] Snippets: No changes found during synchronizing snippets.
+2023-05-01 14:35:03.490 [info] Tasks: No changes found during synchronizing tasks.
+2023-05-01 14:35:03.504 [info] GlobalState: No changes found during synchronizing ui state.
+2023-05-01 14:35:03.567 [info] Extensions: No changes found during synchronizing extensions.
+2023-05-01 14:35:03.569 [info] Profiles: No changes found during synchronizing profiles.
+2023-05-01 14:35:03.571 [info] Sync done. Took 216ms
+2023-05-01 14:35:14.966 [info] Auto Sync: Triggered by Activity
+2023-05-01 14:35:14.967 [info] Sync started.
+2023-05-01 14:35:15.039 [info] Settings: No changes found during synchronizing settings.
+2023-05-01 14:35:15.042 [info] Keybindings: No changes found during synchronizing keybindings.
+2023-05-01 14:35:15.046 [info] Snippets: No changes found during synchronizing snippets.
+2023-05-01 14:35:15.050 [info] Tasks: No changes found during synchronizing tasks.
+2023-05-01 14:35:15.056 [info] GlobalState: No changes found during synchronizing ui state.
+2023-05-01 14:35:15.109 [info] Extensions: No changes found during synchronizing extensions.
+2023-05-01 14:35:15.111 [info] Profiles: No changes found during synchronizing profiles.
+2023-05-01 14:35:15.113 [info] Sync done. Took 146ms

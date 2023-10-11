@@ -1,0 +1,21 @@
+pane	2	1	0	:	1	mint-vera	:/home/codedenma/personal/caocao	1	nvim	:/tmp/.mount_nvim.a4k2piH/usr/bin/nvim .
+pane	2	2	0	:	1	mint-vera	:/home/codedenma/personal/caocao/client	1	npm	:npm run dev
+pane	2	3	0	:-	1	mint-vera	:/home/codedenma/personal/caocao/server	1	zsh	:
+pane	2	4	1	:*	1	mint-vera	:/home/codedenma/personal/caocao/server	1	zsh	:
+pane	2	5	0	:	1	mint-vera	:/home/codedenma/Downloads	1	zsh	:
+pane	5	1	0	:-	1	mint-vera	:/home/codedenma/personal/notes	1	zsh	:
+pane	5	2	0	:	1	mint-vera	:/home/codedenma/personal/algorithms	1	zsh	:
+pane	5	3	0	:	1	mint-vera	:/home/codedenma/personal	1	zsh	:
+pane	5	4	1	:*	1	mint-vera	:/home/codedenma/personal/algorithms	1	zsh	:
+pane	5	5	0	:	1	mint-vera	:/home/codedenma/personal/caocao/client	1	zsh	:
+window	2	1	:nvim	0	:	ce00,160x39,0,0,3	:
+window	2	2	:client	0	:	cdfe,160x39,0,0,1	off
+window	2	3	:server	0	:-	cdff,160x39,0,0,2	off
+window	2	4	:zsh	1	:*	ce01,160x39,0,0,4	:
+window	2	5	:zsh	0	:	ce02,160x39,0,0,5	:
+window	5	1	:notes	0	:-	ce03,160x39,0,0,6	off
+window	5	2	:algos	0	:	ce04,160x39,0,0,7	off
+window	5	3	:zsh	0	:	ce05,160x39,0,0,8	:
+window	5	4	:zsh	1	:*	ce06,160x39,0,0,9	:
+window	5	5	:zsh	0	:	672f,160x39,0,0,10	:
+state	2	5

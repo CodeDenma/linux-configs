@@ -1,0 +1,14 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/home/codedenma/.config/pomotroid/logs/.c54679c0c9d5395844f74eded7043e219088912c-audit.json",
+    "files": [
+        {
+            "date": 1682494611407,
+            "name": "/home/codedenma/.config/pomotroid/logs/pomotroid-2023-04-26.log",
+            "hash": "80a0c6ff4ed24b06e330e61925ae8eaa"
+        }
+    ]
+}

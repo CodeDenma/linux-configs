@@ -1,0 +1,32 @@
+{
+   "description": "Steady Flight: By Shyama Kuver",
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAp3hNgVSrcFNoqVUvQWm4GwSafprsYQsHTB/I/tXSyottIcLqtt32uK6zfPu/nmRj8Zq1Tf1P+j5ALGZwpgW9GSQYxmy88jFGn4PYUSzTEoL+bCfuvNeh3e1AoLTlEjpO1rqNsgAbayGDt5DKd1Q3lgsW4BW5GgohlHRG5O42zNFWRlXodK08wW5bfYLc4SDlytjoLSMPs18y3Kkk4j6a62U5Co08eN031WpVcC7c1p8GwIIXlDzVGZjkjbM9K2M2TuCcYSElEq2tqQ2QIvt8gsN5Nw0jXDCF+xCU1z39X3ZosBJMRfRCLKwZyLzlwG1yroOu73u5cTOz8DYWhWLuGwIDAQAB",
+   "manifest_version": 3,
+   "name": "Steady Flight",
+   "theme": {
+      "colors": {
+         "bookmark_text": [ 255, 255, 255 ],
+         "frame": [ 70, 95, 78 ],
+         "ntp_background": [ 128, 158, 136 ],
+         "tab_background_text": [ 255, 255, 255 ],
+         "tab_text": [ 255, 255, 255 ],
+         "toolbar": [ 91, 119, 99 ]
+      },
+      "images": {
+         "theme_ntp_background": "Steady Flight_cws_1366x768.png"
+      },
+      "properties": {
+         "ntp_background_alignment": "top",
+         "ntp_background_repeat": "none",
+         "ntp_logo_alternate": 1
+      },
+      "tints": {
+         "buttons": [ 1, 1, 1 ],
+         "frame_inactive": [ -1, -1, -1 ],
+         "frame_incognito": [ -1, -1, -1 ],
+         "frame_incognito_inactive": [ -1, -1, -1 ]
+      }
+   },
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1"
+}

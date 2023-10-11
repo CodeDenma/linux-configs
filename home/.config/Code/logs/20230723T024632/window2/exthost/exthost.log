@@ -1,0 +1,14 @@
+2023-07-23 02:47:19.993 [info] Extension host with pid 50816 started
+2023-07-23 02:47:19.993 [info] Skipping acquiring lock for /home/codedenma/.config/Code/User/workspaceStorage/f13d5dd0475b11d1ac7c1035dda09b04.
+2023-07-23 02:47:20.014 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-07-23 02:47:20.016 [info] ExtensionService#_doActivateExtension mhutchie.git-graph, startup: true, activationEvent: '*'
+2023-07-23 02:47:20.026 [info] ExtensionService#_doActivateExtension vscodevim.vim, startup: true, activationEvent: '*'
+2023-07-23 02:47:20.106 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-07-23 02:47:20.121 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-07-23 02:47:20.170 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2023-07-23 02:47:20.219 [info] Eager extensions activated
+2023-07-23 02:47:20.256 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-07-23 02:47:20.257 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-07-23 02:47:20.271 [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+2023-07-23 02:47:21.098 [error] Error: ENOENT: no such file or directory, open '/home/codedenma/.config/Code/User/globalStorage/vscodevim.vim/.registers'
+2023-07-23 02:47:34.294 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'

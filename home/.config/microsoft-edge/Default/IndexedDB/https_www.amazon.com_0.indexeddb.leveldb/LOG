@@ -1,0 +1,29 @@
+2023/06/18-22:05:12.922 b59 Creating DB /home/codedenma/.config/microsoft-edge/Default/IndexedDB/https_www.amazon.com_0.indexeddb.leveldb since it was missing.
+2023/06/18-22:05:12.934 b59 Reusing MANIFEST /home/codedenma/.config/microsoft-edge/Default/IndexedDB/https_www.amazon.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/06/18-22:05:35.055 b59 Level-0 table #5: started
+2023/06/18-22:05:35.056 b59 Level-0 table #5: 1020 bytes OK
+2023/06/18-22:05:35.058 b59 Delete type=0 #3
+2023/06/18-22:05:35.059 b59 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/06/18-22:21:27.156 b59 Level-0 table #7: started
+2023/06/18-22:21:27.157 b59 Level-0 table #7: 509 bytes OK
+2023/06/18-22:21:27.159 b59 Delete type=0 #4
+2023/06/18-22:21:27.159 b59 Manual compaction at level-0 from '\x00\x03\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/06/18-22:21:29.176 b59 Level-0 table #9: started
+2023/06/18-22:21:29.178 b59 Level-0 table #9: 256 bytes OK
+2023/06/18-22:21:29.180 b59 Delete type=0 #6
+2023/06/18-22:21:29.180 b59 Manual compaction at level-0 from (begin) .. (end); will stop at '\x00\x00\x00\x002\x02p\x01\x00\x00\x00\x00\x00\x00\x00\x00' @ 80 : 0
+2023/06/18-22:21:29.180 b59 Compacting 1@0 + 1@1 files
+2023/06/18-22:21:29.182 b59 Generated table #10@0: 11 keys, 452 bytes
+2023/06/18-22:21:29.182 b59 Compacted 1@0 + 1@1 files => 452 bytes
+2023/06/18-22:21:29.184 b59 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/06/18-22:21:29.185 b59 Delete type=2 #9
+2023/06/18-22:21:29.185 b59 Delete type=2 #7
+2023/06/18-22:21:29.185 b59 Manual compaction at level-0 from '\x00\x00\x00\x002\x02p\x01\x00\x00\x00\x00\x00\x00\x00\x00' @ 80 : 0 .. (end); will stop at (end)
+2023/06/18-22:21:29.186 b59 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\xc9\x18\x00h\x00t\x00t\x00p\x00s\x00_\x00w\x00w\x00w\x00.\x00a\x00m\x00a\x00z\x00o\x00n\x00.\x00c\x00o\x00m\x00_\x000\x00@\x001\x09\x00H\x00_\x00T\x00E\x00S\x00T\x00_\x00D\x00B' @ 70 : 0
+2023/06/18-22:21:29.186 b59 Compacting 1@1 + 1@2 files
+2023/06/18-22:21:29.188 b59 Generated table #11@1: 19 keys, 501 bytes
+2023/06/18-22:21:29.188 b59 Compacted 1@1 + 1@2 files => 501 bytes
+2023/06/18-22:21:29.190 b59 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/06/18-22:21:29.190 b59 Delete type=2 #10
+2023/06/18-22:21:29.190 b59 Delete type=2 #5
+2023/06/18-22:21:29.191 b59 Manual compaction at level-1 from '\x00\x00\x00\x00\xc9\x18\x00h\x00t\x00t\x00p\x00s\x00_\x00w\x00w\x00w\x00.\x00a\x00m\x00a\x00z\x00o\x00n\x00.\x00c\x00o\x00m\x00_\x000\x00@\x001\x09\x00H\x00_\x00T\x00E\x00S\x00T\x00_\x00D\x00B' @ 70 : 0 .. (end); will stop at (end)

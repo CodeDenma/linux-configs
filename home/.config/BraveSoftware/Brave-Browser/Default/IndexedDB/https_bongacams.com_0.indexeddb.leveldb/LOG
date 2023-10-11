@@ -1,0 +1,6 @@
+2023/04/26-03:41:22.738 2ef9 Creating DB /home/codedenma/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_bongacams.com_0.indexeddb.leveldb since it was missing.
+2023/04/26-03:41:22.742 2ef9 Reusing MANIFEST /home/codedenma/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_bongacams.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/04/26-03:41:24.948 13510 Level-0 table #5: started
+2023/04/26-03:41:24.949 13510 Level-0 table #5: 1056 bytes OK
+2023/04/26-03:41:24.951 13510 Delete type=0 #3
+2023/04/26-03:41:24.951 13510 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

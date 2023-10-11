@@ -1,0 +1,47 @@
+html {
+    height: 500px;
+    width: 640px;
+}
+
+body {
+    display: flex;
+    flex-direction: row;
+    font-family: sohne-extralight;
+    margin: 0;
+    padding: 0;
+}
+
+.sideimage {
+    width: 20em;
+}
+
+.pieces-context-btn {
+    font-size: 12px;
+    width: 100px;
+    height: 20px;
+    z-index: 1;
+    background-color: #212121;
+    border-radius: 15px;
+    position: absolute;
+    cursor: pointer;
+    color: #ffffff;
+    border: 1px solid #212121;
+    line-height: initial;
+    right: 10px;
+    transition: 0.3s;
+}
+
+.pieces-context-btn:hover {
+    background-color: gray;
+    border: 1px solid gray;
+}
+
+#learn-more {
+    bottom: 40px;
+    text-align: center;
+    text-decoration: none;
+}
+
+#settings-btn {
+    bottom: 15px
+}

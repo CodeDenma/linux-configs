@@ -1,0 +1,51 @@
+{
+   "action": {
+      "default_icon": {
+         "128": "/images/icons/icon128.png",
+         "16": "/images/icons/icon16.png",
+         "24": "/images/icons/icon32.png",
+         "32": "/images/icons/icon32.png",
+         "48": "/images/icons/icon48.png",
+         "96": "/images/icons/icon96.png"
+      },
+      "default_popup": "index.html",
+      "default_title": "Pieces Web Extension v2"
+   },
+   "author": "Connor O'Leary",
+   "background": {
+      "service_worker": "background.js",
+      "type": "module"
+   },
+   "commands": {
+      "savePiece": {
+         "description": "Save the highlighted text as a snippet.",
+         "suggested_key": {
+            "default": "Alt+Shift+S",
+            "mac": "Command+Shift+S"
+         }
+      }
+   },
+   "content_scripts": [ {
+      "all_frames": false,
+      "js": [ "content.dart.js", "content.js" ],
+      "matches": [ "\u003Call_urls>" ],
+      "run_at": "document_idle"
+   } ],
+   "content_security_policy": {
+      "extension_pages": "script-src 'self'; object-src 'self'; script-src-elem 'self' wasm-unsafe-eval https://unpkg.com;"
+   },
+   "description": "One-click save for all the code snippets you find on the web",
+   "differential_fingerprint": "1.c86a1c09b1ec72f85a2593167d0bb96340d3f19cb261492499893599ffea8be0",
+   "homepage_url": "https://pieces.app",
+   "icons": {
+      "128": "/images/icons/icon128.png",
+      "16": "/images/icons/icon16.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1o4Z5kfXFuHQvxzdRtQRGj4O/dg6JVMt976vtncfTJvGEFJA4Bd6YJSK380o2d+lMNRXWlL/GsmcCNW4eBsmClZ3Dt3ttQAqvaJY2yn8f1czyZwY54YP6HN/LbHHN3TGAvcwtAwVUr+VxWcxZ6a5eF+GZyj6G56e/R8cm6C86sICwq+mB+SRnkba3uBwnqi58HGu2xnKYu3i5M7YN2p6vLlrec/dqfNViG87GiMnCMEvOqa7Cn5lsx+DA2RnqjXw6Lc7Vl9iixuzo0GtSMFwYyJa9ToRqqZ8T+I5OBIehxB55m4sR/orAvQXDDXuR2ZMM4s/Skxv1cKXU7mZ3TZt9wIDAQAB",
+   "manifest_version": 3,
+   "name": "Pieces: Save code snippets from the web",
+   "permissions": [ "activeTab", "contextMenus", "storage", "scripting", "http://*/", "https://*/" ],
+   "short_name": "Pieces",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "2.6.2"
+}

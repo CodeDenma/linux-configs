@@ -1,0 +1,59 @@
+{
+   "author": "Opera Norway AS",
+   "background": {
+      "persistent": true,
+      "scripts": [ "background.js" ]
+   },
+   "content_scripts": [ {
+      "all_frames": true,
+      "js": [ "adapter_chatgpt_panel.js" ],
+      "matches": [ "https://chat.openai.com/*" ],
+      "run_at": "document_end"
+   }, {
+      "all_frames": true,
+      "js": [ "adapter_chatgpt_monitor_all.js" ],
+      "matches": [ "https://chat.openai.com/*" ],
+      "run_at": "document_end"
+   }, {
+      "all_frames": true,
+      "js": [ "adapter_chatsonic_panel.js" ],
+      "matches": [ "https://app.writesonic.com/*", "https://writesonic.com/chat" ],
+      "run_at": "document_end"
+   }, {
+      "all_frames": true,
+      "js": [ "adapter_chatsonic_monitor_all.js" ],
+      "matches": [ "https://writesonic.com/*", "https://app.writesonic.com/*" ],
+      "run_at": "document_end"
+   } ],
+   "description": "Opera AI Prompts",
+   "developer": {
+      "name": "Blueboard International AG, an Opera Group Company",
+      "url": "https://opera.com"
+   },
+   "homepage_url": "https://opera.com",
+   "icons": {
+      "128": "icons/512/icon_512_black.png",
+      "32": "icons/512/icon_512_black.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAtbUwQkwG9topGvq06LJHcea4C/RHP7NBTeKndZIjkHShmqvQHy1H+Sm9ZGjkDvCYxrx9zY2iuxz2Tg0SG6kItPWtUihF+lFaRIWY+DlMcWkKQsOJ0enj/RQvMxTLgWWQRVadPV/GADyqZakGxDtLpOpweSLDFNhH01lE/xPm5irD6VF52pa/y542foKEXln3a0BGL3E7cF3TKEp4V/el7WioVtjE9wJ8M5dXq5PvwKpcM0XjsB0dcZ7GaP++G2pvORPz7MQURSEDuXS+03YjCtGAg1p6KW+hneq+0A7B7KUQFEaS3nczZo4u3xv8twu1eahMuH7zKOpgi4qoyWK0xQIDAQAB",
+   "manifest_version": 2,
+   "name": "Opera AI Prompts",
+   "page_action": {
+      "default_icon": {
+         "16": "icons/512/icon_512_black.png",
+         "32": "icons/512/icon_512_black.png"
+      },
+      "theme_icons": [ {
+         "dark": "icons/512/icon_512_white.png",
+         "light": "icons/512/icon_512_black.png",
+         "size": 16
+      }, {
+         "dark": "icons/512/icon_512_white.png",
+         "light": "icons/512/icon_512_black.png",
+         "size": 32
+      } ]
+   },
+   "permissions": [ "\u003Call_urls>", "activeTab", "browserSidebarPrivate", "operaBrowserPrivate", "palette", "shodanPrivate", "statsPrivate", "storage", "tabs" ],
+   "update_url": "https://extension-updates.opera.com/api/omaha/update/",
+   "version": "0.1.119"
+}

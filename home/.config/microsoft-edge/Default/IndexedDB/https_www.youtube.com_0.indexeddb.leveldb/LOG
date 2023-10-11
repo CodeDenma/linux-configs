@@ -1,0 +1,21 @@
+2023/08/12-12:45:35.073 272a Reusing MANIFEST /home/codedenma/.config/microsoft-edge/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/08/12-12:45:35.073 272a Recovering log #347
+2023/08/12-12:45:35.083 272a Reusing old log /home/codedenma/.config/microsoft-edge/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000347.log 
+2023/08/12-15:26:04.290 272a Level-0 table #352: started
+2023/08/12-15:26:04.317 272a Level-0 table #352: 1720541 bytes OK
+2023/08/12-15:26:04.320 272a Delete type=0 #347
+2023/08/12-16:31:58.940 2736 Compacting 1@1 + 1@2 files
+2023/08/12-16:31:58.944 2736 Generated table #353@1: 495 keys, 39358 bytes
+2023/08/12-16:31:58.944 2736 Compacted 1@1 + 1@2 files => 39358 bytes
+2023/08/12-16:31:58.947 2736 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/08/12-17:07:55.972 272a Level-0 table #355: started
+2023/08/12-17:07:55.982 272a Level-0 table #355: 1309648 bytes OK
+2023/08/12-17:07:55.985 272a Delete type=2 #349
+2023/08/12-17:07:55.985 272a Delete type=0 #351
+2023/08/12-17:07:55.985 272a Delete type=2 #352
+2023/08/12-17:35:55.089 2736 Compacting 1@1 + 1@2 files
+2023/08/12-17:35:55.106 2736 Generated table #356@1: 439 keys, 29301 bytes
+2023/08/12-17:35:55.106 2736 Compacted 1@1 + 1@2 files => 29301 bytes
+2023/08/12-17:35:55.108 2736 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/08/12-17:35:55.108 2736 Delete type=2 #353
+2023/08/12-17:35:55.108 2736 Delete type=2 #355

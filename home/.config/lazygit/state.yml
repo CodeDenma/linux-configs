@@ -1,0 +1,18 @@
+lastupdatecheck: 0
+recentrepos:
+- /home/codedenma/personal/algorithms
+- /home/codedenma/personal/notes
+- /home/codedenma/personal/daily-dose-of-algo
+- /home/codedenma/personal/linux-configs
+- /home/codedenma/personal/adv360-config
+- /home/codedenma/courses/my-first-app
+startuppopupversion: 5
+customcommandshistory:
+- git add .
+- git commit -m
+- git commit -m 'reverted ultra keys'
+- git push
+- q
+- git commit -m '22'
+- qa
+hidecommandlog: false

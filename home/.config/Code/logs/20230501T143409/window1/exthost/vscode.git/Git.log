@@ -1,0 +1,49 @@
+2023-05-01 14:34:10.935 [info] Log level: Info
+2023-05-01 14:34:10.935 [info] Validating found git in: "git"
+2023-05-01 14:34:10.935 [info] Using git "2.34.1" from "git"
+2023-05-01 14:34:10.935 [info] > git rev-parse --show-toplevel [2ms]
+2023-05-01 14:34:10.935 [info] > git rev-parse --git-dir --git-common-dir [3ms]
+2023-05-01 14:34:10.941 [info] Open repository: /home/codedenma/courses/my-first-app
+2023-05-01 14:34:10.958 [info] > git rev-parse --show-toplevel [13ms]
+2023-05-01 14:34:10.968 [info] > git rev-parse --show-toplevel [8ms]
+2023-05-01 14:34:10.971 [info] > git config --get commit.template [13ms]
+2023-05-01 14:34:10.972 [info] > git rev-parse --show-toplevel [2ms]
+2023-05-01 14:34:10.976 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [0ms]
+2023-05-01 14:34:10.982 [info] > git status -z -uall [2ms]
+2023-05-01 14:34:10.990 [info] > git config --get commit.template [2ms]
+2023-05-01 14:34:10.998 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2023-05-01 14:34:11.002 [info] > git status -z -uall [1ms]
+2023-05-01 14:34:11.317 [info] > git show --textconv :.gitignore [5ms]
+2023-05-01 14:34:11.318 [info] > git ls-files --stage -- /home/codedenma/courses/my-first-app/.gitignore [2ms]
+2023-05-01 14:34:11.321 [info] > git cat-file -s 6ad4163ac147b7ba57d47fac14b6d2729ab30aa0 [1ms]
+2023-05-01 14:34:11.475 [info] > git check-ignore -v -z --stdin [5ms]
+2023-05-01 14:34:37.267 [info] > git check-ignore -v -z --stdin [1ms]
+2023-05-01 14:34:37.731 [info] > git config --get commit.template [3ms]
+2023-05-01 14:34:37.732 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2023-05-01 14:34:37.736 [info] > git status -z -uall [2ms]
+2023-05-01 14:34:39.177 [info] > git check-ignore -v -z --stdin [1ms]
+2023-05-01 14:35:13.794 [info] > git add -A -- . [10ms]
+2023-05-01 14:35:13.800 [info] > git -c user.useConfigOnly=true commit --quiet --allow-empty-message --file - [3ms]
+2023-05-01 14:35:13.800 [info] Author identity unknown
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: no name was given and auto-detection is disabled
+2023-05-01 14:35:13.804 [info] > git config --get-all user.name [1ms]
+2023-05-01 14:35:13.811 [info] > git config --get commit.template [3ms]
+2023-05-01 14:35:13.811 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2023-05-01 14:35:13.816 [info] > git status -z -uall [2ms]
+2023-05-01 14:35:14.873 [info] > git config --get commit.template [3ms]
+2023-05-01 14:35:14.873 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2023-05-01 14:35:14.877 [info] > git status -z -uall [1ms]
+2023-05-01 14:35:14.968 [info] > git ls-files --stage -- /home/codedenma/courses/my-first-app/.gitignore [0ms]
+2023-05-01 14:35:14.971 [info] > git cat-file -s f23a4e7227db9fbb16fa40410896bf21df09a9d6 [1ms]
+2023-05-01 14:35:14.976 [info] > git show --textconv :.gitignore [1ms]

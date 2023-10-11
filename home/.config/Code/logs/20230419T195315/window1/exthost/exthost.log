@@ -1,0 +1,30 @@
+2023-04-19 19:53:16.411 [info] Extension host with pid 25576 started
+2023-04-19 19:53:16.411 [info] Skipping acquiring lock for /home/codedenma/.config/Code/User/workspaceStorage/0ee9272c09ad03183a1c6e1fe6b973da.
+2023-04-19 19:53:16.450 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-04-19 19:53:16.475 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-04-19 19:53:16.495 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-04-19 19:53:16.520 [info] Eager extensions activated
+2023-04-19 19:53:16.524 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2023-04-19 19:53:16.545 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-04-19 19:53:16.546 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-04-19 19:53:16.594 [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+2023-04-19 19:53:17.718 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-04-19 19:53:17.721 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-04-19 19:53:17.735 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-04-19 19:53:17.744 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-04-19 19:56:55.398 [error] Error: Repository not initialized
+	at A.W (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1529775)
+	at A.checkIgnore (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1528661)
+	at c.g (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1420524)
+	at Timeout._onTimeout (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1423828)
+	at listOnTimeout (node:internal/timers:559:17)
+	at process.processTimers (node:internal/timers:502:7)
+2023-04-19 19:56:56.400 [error] Error: Repository not initialized
+	at A.W (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1529775)
+	at A.checkIgnore (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1528661)
+	at c.g (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1420524)
+	at Timeout._onTimeout (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1423828)
+	at listOnTimeout (node:internal/timers:559:17)
+	at process.processTimers (node:internal/timers:502:7)
+2023-04-19 20:01:12.421 [info] Extension host terminating: renderer closed the MessagePort
+2023-04-19 20:01:12.432 [info] Extension host with pid 25576 exiting with code 0

@@ -1,0 +1,335 @@
+[2023-06-18 23:48:06.365] Starting Git Graph ...
+[2023-06-18 23:48:06.372] Using git (version: 2.34.1)
+[2023-06-18 23:48:06.378] Started Git Graph - Ready to use!
+[2023-06-18 23:48:06.379] Searching workspace for new repos ...
+[2023-06-18 23:48:06.383] > git rev-parse --show-toplevel
+[2023-06-18 23:48:06.386] Added new repo: /home/codedenma/personal/adv360-config
+[2023-06-18 23:48:06.387] Successfully set Visual Studio Code Context "git-graph:codiconsSupported" to "true"
+[2023-06-18 23:48:06.388] Completed searching workspace for new repos
+[2023-06-18 23:48:06.388] Showing "Git Graph" Status Bar Item
+[2023-06-18 23:48:09.494] Created Git Graph View
+[2023-06-18 23:48:09.627] > git branch -a --no-color
+[2023-06-18 23:48:09.631] > git remote
+[2023-06-18 23:48:09.634] > git reflog --format=... refs/stash --
+[2023-06-18 23:48:09.635] Started watching repo: /home/codedenma/personal/adv360-config
+[2023-06-18 23:48:09.647] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes 92950484025a152af78952300d2d58a66850a4ed HEAD --
+[2023-06-18 23:48:09.650] > git show-ref -d --head
+[2023-06-18 23:48:09.657] > git status --untracked-files=all --porcelain
+[2023-06-18 23:48:09.688] > git --no-pager config --list -z --includes
+[2023-06-18 23:48:09.692] > git --no-pager config --list -z --includes --local
+[2023-06-18 23:48:09.695] > git --no-pager config --list -z --includes --global
+[2023-06-18 23:48:13.847] > git -c log.showSignature=false show --quiet 786478f76600ec1f2b24eb6bf77db214b2b9cf9f --format=...
+[2023-06-18 23:48:13.850] > git diff --name-status --find-renames --diff-filter=AMDR -z 786478f76600ec1f2b24eb6bf77db214b2b9cf9f^ 786478f76600ec1f2b24eb6bf77db214b2b9cf9f
+[2023-06-18 23:48:13.853] > git diff --numstat --find-renames --diff-filter=AMDR -z 786478f76600ec1f2b24eb6bf77db214b2b9cf9f^ 786478f76600ec1f2b24eb6bf77db214b2b9cf9f
+[2023-06-18 23:48:15.729] > git show 786478f76600ec1f2b24eb6bf77db214b2b9cf9f^:config/adv360.keymap
+[2023-06-18 23:48:15.735] > git show 786478f76600ec1f2b24eb6bf77db214b2b9cf9f:config/adv360.keymap
+[2023-06-18 23:48:15.765] Stopped watching repo: /home/codedenma/personal/adv360-config
+[2023-06-18 23:48:28.456] > git branch -a --no-color
+[2023-06-18 23:48:28.459] > git remote
+[2023-06-18 23:48:28.463] > git reflog --format=... refs/stash --
+[2023-06-18 23:48:28.464] Started watching repo: /home/codedenma/personal/adv360-config
+[2023-06-18 23:48:28.469] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes 92950484025a152af78952300d2d58a66850a4ed HEAD --
+[2023-06-18 23:48:28.472] > git show-ref -d --head
+[2023-06-18 23:48:28.476] > git status --untracked-files=all --porcelain
+[2023-06-18 23:48:33.395] Stopped watching repo: /home/codedenma/personal/adv360-config
+[2023-06-19 00:10:52.014] Created Git Graph View
+[2023-06-19 00:10:52.098] > git branch -a --no-color
+[2023-06-19 00:10:52.102] > git remote
+[2023-06-19 00:10:52.104] > git reflog --format=... refs/stash --
+[2023-06-19 00:10:52.105] Started watching repo: /home/codedenma/personal/adv360-config
+[2023-06-19 00:10:52.112] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes 92950484025a152af78952300d2d58a66850a4ed HEAD --
+[2023-06-19 00:10:52.115] > git show-ref -d --head
+[2023-06-19 00:10:52.119] > git status --untracked-files=all --porcelain
+[2023-06-19 00:10:52.151] > git --no-pager config --list -z --includes
+[2023-06-19 00:10:52.155] > git --no-pager config --list -z --includes --local
+[2023-06-19 00:10:52.158] > git --no-pager config --list -z --includes --global
+[2023-06-19 00:11:02.091] > git -c log.showSignature=false show --quiet b4759304aab34c2d0c7ee2854cf5fed2b8789512 --format=...
+[2023-06-19 00:11:02.098] > git diff --name-status --find-renames --diff-filter=AMDR -z b4759304aab34c2d0c7ee2854cf5fed2b8789512^ b4759304aab34c2d0c7ee2854cf5fed2b8789512
+[2023-06-19 00:11:02.104] > git diff --numstat --find-renames --diff-filter=AMDR -z b4759304aab34c2d0c7ee2854cf5fed2b8789512^ b4759304aab34c2d0c7ee2854cf5fed2b8789512
+[2023-06-19 00:11:06.687] > git show b4759304aab34c2d0c7ee2854cf5fed2b8789512^:config/adv360.keymap
+[2023-06-19 00:11:06.691] > git show b4759304aab34c2d0c7ee2854cf5fed2b8789512:config/adv360.keymap
+[2023-06-19 00:11:06.707] Stopped watching repo: /home/codedenma/personal/adv360-config
+[2023-06-19 00:11:18.377] > git branch -a --no-color
+[2023-06-19 00:11:18.381] > git remote
+[2023-06-19 00:11:18.386] > git reflog --format=... refs/stash --
+[2023-06-19 00:11:18.387] Started watching repo: /home/codedenma/personal/adv360-config
+[2023-06-19 00:11:18.395] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes 92950484025a152af78952300d2d58a66850a4ed HEAD --
+[2023-06-19 00:11:18.398] > git show-ref -d --head
+[2023-06-19 00:11:18.403] > git status --untracked-files=all --porcelain
+[2023-06-19 00:11:19.857] > git -c log.showSignature=false show --quiet dfb980975f713d8d2c3952289099dd7196ad588e --format=...
+[2023-06-19 00:11:19.860] > git diff --name-status --find-renames --diff-filter=AMDR -z dfb980975f713d8d2c3952289099dd7196ad588e^ dfb980975f713d8d2c3952289099dd7196ad588e
+[2023-06-19 00:11:19.863] > git diff --numstat --find-renames --diff-filter=AMDR -z dfb980975f713d8d2c3952289099dd7196ad588e^ dfb980975f713d8d2c3952289099dd7196ad588e
+[2023-06-19 00:11:22.009] > git show dfb980975f713d8d2c3952289099dd7196ad588e^:config/adv360.keymap
+[2023-06-19 00:11:22.013] > git show dfb980975f713d8d2c3952289099dd7196ad588e:config/adv360.keymap
+[2023-06-19 00:11:22.025] Stopped watching repo: /home/codedenma/personal/adv360-config
+[2023-06-19 00:11:45.169] > git branch -a --no-color
+[2023-06-19 00:11:45.173] > git remote
+[2023-06-19 00:11:45.177] > git reflog --format=... refs/stash --
+[2023-06-19 00:11:45.178] Started watching repo: /home/codedenma/personal/adv360-config
+[2023-06-19 00:11:45.186] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes 92950484025a152af78952300d2d58a66850a4ed HEAD --
+[2023-06-19 00:11:45.189] > git show-ref -d --head
+[2023-06-19 00:11:45.193] > git status --untracked-files=all --porcelain
+[2023-06-19 00:11:52.024] > git -c log.showSignature=false show --quiet b2a6f527faf27f82a2b1d385641c8a46f61422ff --format=...
+[2023-06-19 00:11:52.032] > git diff --name-status --find-renames --diff-filter=AMDR -z b2a6f527faf27f82a2b1d385641c8a46f61422ff^ b2a6f527faf27f82a2b1d385641c8a46f61422ff
+[2023-06-19 00:11:52.038] > git diff --numstat --find-renames --diff-filter=AMDR -z b2a6f527faf27f82a2b1d385641c8a46f61422ff^ b2a6f527faf27f82a2b1d385641c8a46f61422ff
+[2023-06-19 00:11:54.083] > git -c log.showSignature=false show --quiet 0488c2d2354931d96d38f0b99f4cdbe6232e927b --format=...
+[2023-06-19 00:11:54.086] > git diff --name-status --find-renames --diff-filter=AMDR -z 92950484025a152af78952300d2d58a66850a4ed 0488c2d2354931d96d38f0b99f4cdbe6232e927b
+[2023-06-19 00:11:54.089] > git diff --numstat --find-renames --diff-filter=AMDR -z 92950484025a152af78952300d2d58a66850a4ed 0488c2d2354931d96d38f0b99f4cdbe6232e927b
+[2023-06-19 00:11:55.644] > git show 92950484025a152af78952300d2d58a66850a4ed:config/adv360.keymap
+[2023-06-19 00:11:55.647] > git show 0488c2d2354931d96d38f0b99f4cdbe6232e927b:config/adv360.keymap
+[2023-06-19 00:11:55.661] Stopped watching repo: /home/codedenma/personal/adv360-config
+[2023-06-19 00:12:06.856] > git branch -a --no-color
+[2023-06-19 00:12:06.859] > git remote
+[2023-06-19 00:12:06.862] > git reflog --format=... refs/stash --
+[2023-06-19 00:12:06.863] Started watching repo: /home/codedenma/personal/adv360-config
+[2023-06-19 00:12:06.868] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes 92950484025a152af78952300d2d58a66850a4ed HEAD --
+[2023-06-19 00:12:06.871] > git show-ref -d --head
+[2023-06-19 00:12:06.875] > git status --untracked-files=all --porcelain
+[2023-06-19 00:12:08.359] > git -c log.showSignature=false show --quiet 92950484025a152af78952300d2d58a66850a4ed --format=...
+[2023-06-19 00:12:08.363] > git diff --name-status --find-renames --diff-filter=AMDR -z 92950484025a152af78952300d2d58a66850a4ed^ 92950484025a152af78952300d2d58a66850a4ed
+[2023-06-19 00:12:08.366] > git diff --numstat --find-renames --diff-filter=AMDR -z 92950484025a152af78952300d2d58a66850a4ed^ 92950484025a152af78952300d2d58a66850a4ed
+[2023-06-19 00:12:09.120] > git -c log.showSignature=false show --quiet 444c294d3ef527b627445be6b7dd2cbd644a6593 --format=...
+[2023-06-19 00:12:09.124] > git diff --name-status --find-renames --diff-filter=AMDR -z 444c294d3ef527b627445be6b7dd2cbd644a6593^ 444c294d3ef527b627445be6b7dd2cbd644a6593
+[2023-06-19 00:12:09.127] > git diff --numstat --find-renames --diff-filter=AMDR -z 444c294d3ef527b627445be6b7dd2cbd644a6593^ 444c294d3ef527b627445be6b7dd2cbd644a6593
+[2023-06-19 00:12:10.357] > git show 444c294d3ef527b627445be6b7dd2cbd644a6593^:config/adv360.keymap
+[2023-06-19 00:12:10.363] > git show 444c294d3ef527b627445be6b7dd2cbd644a6593:config/adv360.keymap
+[2023-06-19 00:12:10.382] Stopped watching repo: /home/codedenma/personal/adv360-config
+[2023-06-19 00:13:20.424] > git branch -a --no-color
+[2023-06-19 00:13:20.427] > git remote
+[2023-06-19 00:13:20.431] > git reflog --format=... refs/stash --
+[2023-06-19 00:13:20.432] Started watching repo: /home/codedenma/personal/adv360-config
+[2023-06-19 00:13:20.437] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes 92950484025a152af78952300d2d58a66850a4ed HEAD --
+[2023-06-19 00:13:20.440] > git show-ref -d --head
+[2023-06-19 00:13:20.444] > git status --untracked-files=all --porcelain
+[2023-06-19 00:13:28.126] > git -c log.showSignature=false show --quiet 4633f4ad5165d7aa27cbbcbc0a719ef942fbec01 --format=...
+[2023-06-19 00:13:28.129] > git diff --name-status --find-renames --diff-filter=AMDR -z 4633f4ad5165d7aa27cbbcbc0a719ef942fbec01^ 4633f4ad5165d7aa27cbbcbc0a719ef942fbec01
+[2023-06-19 00:13:28.132] > git diff --numstat --find-renames --diff-filter=AMDR -z 4633f4ad5165d7aa27cbbcbc0a719ef942fbec01^ 4633f4ad5165d7aa27cbbcbc0a719ef942fbec01
+[2023-06-19 00:13:29.288] > git show 4633f4ad5165d7aa27cbbcbc0a719ef942fbec01^:config/adv360.keymap
+[2023-06-19 00:13:29.292] > git show 4633f4ad5165d7aa27cbbcbc0a719ef942fbec01:config/adv360.keymap
+[2023-06-19 00:13:29.305] Stopped watching repo: /home/codedenma/personal/adv360-config
+[2023-06-19 00:13:53.324] > git branch -a --no-color
+[2023-06-19 00:13:53.327] > git remote
+[2023-06-19 00:13:53.331] > git reflog --format=... refs/stash --
+[2023-06-19 00:13:53.332] Started watching repo: /home/codedenma/personal/adv360-config
+[2023-06-19 00:13:53.337] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes 92950484025a152af78952300d2d58a66850a4ed HEAD --
+[2023-06-19 00:13:53.340] > git show-ref -d --head
+[2023-06-19 00:13:53.344] > git status --untracked-files=all --porcelain
+[2023-06-19 00:14:13.516] > git checkout -b launch-backup 4633f4ad5165d7aa27cbbcbc0a719ef942fbec01
+[2023-06-19 00:14:26.136] > git branch -a --no-color
+[2023-06-19 00:14:26.139] > git remote
+[2023-06-19 00:14:26.142] > git reflog --format=... refs/stash --
+[2023-06-19 00:14:26.147] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes 77482fd6227c47bbdb15f0d9643c04958823f4fd 92950484025a152af78952300d2d58a66850a4ed HEAD --
+[2023-06-19 00:14:26.150] > git show-ref -d --head
+[2023-06-19 00:14:26.155] > git status --untracked-files=all --porcelain
+[2023-06-19 00:14:39.700] > git -c log.showSignature=false show --quiet 4633f4ad5165d7aa27cbbcbc0a719ef942fbec01 --format=...
+[2023-06-19 00:14:39.703] > git diff --name-status --find-renames --diff-filter=AMDR -z 4633f4ad5165d7aa27cbbcbc0a719ef942fbec01^ 4633f4ad5165d7aa27cbbcbc0a719ef942fbec01
+[2023-06-19 00:14:39.707] > git diff --numstat --find-renames --diff-filter=AMDR -z 4633f4ad5165d7aa27cbbcbc0a719ef942fbec01^ 4633f4ad5165d7aa27cbbcbc0a719ef942fbec01
+[2023-06-19 00:14:48.710] > git -c log.showSignature=false show --quiet 4633f4ad5165d7aa27cbbcbc0a719ef942fbec01 --format=...
+[2023-06-19 00:14:48.714] > git diff --name-status --find-renames --diff-filter=AMDR -z 4633f4ad5165d7aa27cbbcbc0a719ef942fbec01^ 4633f4ad5165d7aa27cbbcbc0a719ef942fbec01
+[2023-06-19 00:14:48.717] > git diff --numstat --find-renames --diff-filter=AMDR -z 4633f4ad5165d7aa27cbbcbc0a719ef942fbec01^ 4633f4ad5165d7aa27cbbcbc0a719ef942fbec01
+[2023-06-19 00:15:02.520] > git -c log.showSignature=false show --quiet 472efb21a19f015f6ee13bd555b0279e28db1e98 --format=...
+[2023-06-19 00:15:02.523] > git diff --name-status --find-renames --diff-filter=AMDR -z 472efb21a19f015f6ee13bd555b0279e28db1e98^ 472efb21a19f015f6ee13bd555b0279e28db1e98
+[2023-06-19 00:15:02.526] > git diff --numstat --find-renames --diff-filter=AMDR -z 472efb21a19f015f6ee13bd555b0279e28db1e98^ 472efb21a19f015f6ee13bd555b0279e28db1e98
+[2023-06-19 00:15:03.614] > git -c log.showSignature=false show --quiet 92950484025a152af78952300d2d58a66850a4ed --format=...
+[2023-06-19 00:15:03.625] > git diff --name-status --find-renames --diff-filter=AMDR -z 92950484025a152af78952300d2d58a66850a4ed^ 92950484025a152af78952300d2d58a66850a4ed
+[2023-06-19 00:15:03.636] > git diff --numstat --find-renames --diff-filter=AMDR -z 92950484025a152af78952300d2d58a66850a4ed^ 92950484025a152af78952300d2d58a66850a4ed
+[2023-06-19 00:15:04.763] > git -c log.showSignature=false show --quiet 4633f4ad5165d7aa27cbbcbc0a719ef942fbec01 --format=...
+[2023-06-19 00:15:04.767] > git diff --name-status --find-renames --diff-filter=AMDR -z 4633f4ad5165d7aa27cbbcbc0a719ef942fbec01^ 4633f4ad5165d7aa27cbbcbc0a719ef942fbec01
+[2023-06-19 00:15:04.770] > git diff --numstat --find-renames --diff-filter=AMDR -z 4633f4ad5165d7aa27cbbcbc0a719ef942fbec01^ 4633f4ad5165d7aa27cbbcbc0a719ef942fbec01
+[2023-06-19 00:15:14.823] > git checkout 4633f4ad5165d7aa27cbbcbc0a719ef942fbec01
+[2023-06-19 00:15:14.830] > git branch -a --no-color
+[2023-06-19 00:15:14.833] > git remote
+[2023-06-19 00:15:14.835] > git reflog --format=... refs/stash --
+[2023-06-19 00:15:14.843] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes 77482fd6227c47bbdb15f0d9643c04958823f4fd 92950484025a152af78952300d2d58a66850a4ed HEAD --
+[2023-06-19 00:15:14.846] > git show-ref -d --head
+[2023-06-19 00:15:14.851] > git status --untracked-files=all --porcelain
+[2023-06-19 00:15:20.463] > git -c log.showSignature=false show --quiet dd6163f18c853ba2e47c99903247865d2322924b --format=...
+[2023-06-19 00:15:20.474] > git diff --name-status --find-renames --diff-filter=AMDR -z dd6163f18c853ba2e47c99903247865d2322924b^ dd6163f18c853ba2e47c99903247865d2322924b
+[2023-06-19 00:15:20.485] > git diff --numstat --find-renames --diff-filter=AMDR -z dd6163f18c853ba2e47c99903247865d2322924b^ dd6163f18c853ba2e47c99903247865d2322924b
+[2023-06-19 00:15:21.407] > git -c log.showSignature=false show --quiet 4633f4ad5165d7aa27cbbcbc0a719ef942fbec01 --format=...
+[2023-06-19 00:15:21.415] > git diff --name-status --find-renames --diff-filter=AMDR -z 4633f4ad5165d7aa27cbbcbc0a719ef942fbec01^ 4633f4ad5165d7aa27cbbcbc0a719ef942fbec01
+[2023-06-19 00:15:21.421] > git diff --numstat --find-renames --diff-filter=AMDR -z 4633f4ad5165d7aa27cbbcbc0a719ef942fbec01^ 4633f4ad5165d7aa27cbbcbc0a719ef942fbec01
+[2023-06-19 00:15:42.418] > git -c log.showSignature=false show --quiet 77482fd6227c47bbdb15f0d9643c04958823f4fd --format=...
+[2023-06-19 00:15:42.445] > git diff --name-status --find-renames --diff-filter=AMDR -z 77482fd6227c47bbdb15f0d9643c04958823f4fd^ 77482fd6227c47bbdb15f0d9643c04958823f4fd
+[2023-06-19 00:15:42.451] > git diff --numstat --find-renames --diff-filter=AMDR -z 77482fd6227c47bbdb15f0d9643c04958823f4fd^ 77482fd6227c47bbdb15f0d9643c04958823f4fd
+[2023-06-19 00:15:45.191] > git -c log.showSignature=false show --quiet 4633f4ad5165d7aa27cbbcbc0a719ef942fbec01 --format=...
+[2023-06-19 00:15:45.194] > git diff --name-status --find-renames --diff-filter=AMDR -z 4633f4ad5165d7aa27cbbcbc0a719ef942fbec01^ 4633f4ad5165d7aa27cbbcbc0a719ef942fbec01
+[2023-06-19 00:15:45.197] > git diff --numstat --find-renames --diff-filter=AMDR -z 4633f4ad5165d7aa27cbbcbc0a719ef942fbec01^ 4633f4ad5165d7aa27cbbcbc0a719ef942fbec01
+[2023-06-19 00:15:46.961] > git -c log.showSignature=false show --quiet 77482fd6227c47bbdb15f0d9643c04958823f4fd --format=...
+[2023-06-19 00:15:46.964] > git diff --name-status --find-renames --diff-filter=AMDR -z 77482fd6227c47bbdb15f0d9643c04958823f4fd^ 77482fd6227c47bbdb15f0d9643c04958823f4fd
+[2023-06-19 00:15:46.967] > git diff --numstat --find-renames --diff-filter=AMDR -z 77482fd6227c47bbdb15f0d9643c04958823f4fd^ 77482fd6227c47bbdb15f0d9643c04958823f4fd
+[2023-06-19 00:15:49.201] > git -c log.showSignature=false show --quiet 4633f4ad5165d7aa27cbbcbc0a719ef942fbec01 --format=...
+[2023-06-19 00:15:49.205] > git diff --name-status --find-renames --diff-filter=AMDR -z 4633f4ad5165d7aa27cbbcbc0a719ef942fbec01^ 4633f4ad5165d7aa27cbbcbc0a719ef942fbec01
+[2023-06-19 00:15:49.208] > git diff --numstat --find-renames --diff-filter=AMDR -z 4633f4ad5165d7aa27cbbcbc0a719ef942fbec01^ 4633f4ad5165d7aa27cbbcbc0a719ef942fbec01
+[2023-06-19 00:15:50.268] > git -c log.showSignature=false show --quiet 77482fd6227c47bbdb15f0d9643c04958823f4fd --format=...
+[2023-06-19 00:15:50.271] > git diff --name-status --find-renames --diff-filter=AMDR -z 77482fd6227c47bbdb15f0d9643c04958823f4fd^ 77482fd6227c47bbdb15f0d9643c04958823f4fd
+[2023-06-19 00:15:50.274] > git diff --numstat --find-renames --diff-filter=AMDR -z 77482fd6227c47bbdb15f0d9643c04958823f4fd^ 77482fd6227c47bbdb15f0d9643c04958823f4fd
+[2023-06-19 00:15:55.535] > git -c log.showSignature=false show --quiet 472efb21a19f015f6ee13bd555b0279e28db1e98 --format=...
+[2023-06-19 00:15:55.539] > git diff --name-status --find-renames --diff-filter=AMDR -z 472efb21a19f015f6ee13bd555b0279e28db1e98^ 472efb21a19f015f6ee13bd555b0279e28db1e98
+[2023-06-19 00:15:55.543] > git diff --numstat --find-renames --diff-filter=AMDR -z 472efb21a19f015f6ee13bd555b0279e28db1e98^ 472efb21a19f015f6ee13bd555b0279e28db1e98
+[2023-06-19 00:15:56.591] > git -c log.showSignature=false show --quiet 4633f4ad5165d7aa27cbbcbc0a719ef942fbec01 --format=...
+[2023-06-19 00:15:56.595] > git diff --name-status --find-renames --diff-filter=AMDR -z 4633f4ad5165d7aa27cbbcbc0a719ef942fbec01^ 4633f4ad5165d7aa27cbbcbc0a719ef942fbec01
+[2023-06-19 00:15:56.598] > git diff --numstat --find-renames --diff-filter=AMDR -z 4633f4ad5165d7aa27cbbcbc0a719ef942fbec01^ 4633f4ad5165d7aa27cbbcbc0a719ef942fbec01
+[2023-06-19 00:15:57.775] > git -c log.showSignature=false show --quiet 472efb21a19f015f6ee13bd555b0279e28db1e98 --format=...
+[2023-06-19 00:15:57.779] > git diff --name-status --find-renames --diff-filter=AMDR -z 472efb21a19f015f6ee13bd555b0279e28db1e98^ 472efb21a19f015f6ee13bd555b0279e28db1e98
+[2023-06-19 00:15:57.781] > git diff --numstat --find-renames --diff-filter=AMDR -z 472efb21a19f015f6ee13bd555b0279e28db1e98^ 472efb21a19f015f6ee13bd555b0279e28db1e98
+[2023-06-19 00:16:06.600] > git -c log.showSignature=false show --quiet 77482fd6227c47bbdb15f0d9643c04958823f4fd --format=...
+[2023-06-19 00:16:06.604] > git diff --name-status --find-renames --diff-filter=AMDR -z 77482fd6227c47bbdb15f0d9643c04958823f4fd^ 77482fd6227c47bbdb15f0d9643c04958823f4fd
+[2023-06-19 00:16:06.607] > git diff --numstat --find-renames --diff-filter=AMDR -z 77482fd6227c47bbdb15f0d9643c04958823f4fd^ 77482fd6227c47bbdb15f0d9643c04958823f4fd
+[2023-06-19 00:16:14.001] > git checkout 77482fd6227c47bbdb15f0d9643c04958823f4fd
+[2023-06-19 00:16:14.008] > git branch -a --no-color
+[2023-06-19 00:16:14.011] > git remote
+[2023-06-19 00:16:14.013] > git reflog --format=... refs/stash --
+[2023-06-19 00:16:14.020] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes 77482fd6227c47bbdb15f0d9643c04958823f4fd 92950484025a152af78952300d2d58a66850a4ed HEAD --
+[2023-06-19 00:16:14.023] > git show-ref -d --head
+[2023-06-19 00:16:14.028] > git status --untracked-files=all --porcelain
+[2023-06-19 00:16:39.636] Stopped watching repo: /home/codedenma/personal/adv360-config
+[2023-06-19 00:18:04.632] > git branch -a --no-color
+[2023-06-19 00:18:04.635] > git remote
+[2023-06-19 00:18:04.640] > git reflog --format=... refs/stash --
+[2023-06-19 00:18:04.642] Started watching repo: /home/codedenma/personal/adv360-config
+[2023-06-19 00:18:04.647] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes 77482fd6227c47bbdb15f0d9643c04958823f4fd 92950484025a152af78952300d2d58a66850a4ed HEAD --
+[2023-06-19 00:18:04.650] > git show-ref -d --head
+[2023-06-19 00:18:04.654] > git status --untracked-files=all --porcelain
+[2023-06-19 00:18:05.014] Stopped watching repo: /home/codedenma/personal/adv360-config
+[2023-06-19 00:20:21.229] > git branch -a --no-color
+[2023-06-19 00:20:21.232] > git remote
+[2023-06-19 00:20:21.236] > git reflog --format=... refs/stash --
+[2023-06-19 00:20:21.237] Started watching repo: /home/codedenma/personal/adv360-config
+[2023-06-19 00:20:21.243] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes 77482fd6227c47bbdb15f0d9643c04958823f4fd 92950484025a152af78952300d2d58a66850a4ed HEAD --
+[2023-06-19 00:20:21.246] > git show-ref -d --head
+[2023-06-19 00:20:21.250] > git status --untracked-files=all --porcelain
+[2023-06-19 00:20:23.640] > git -c log.showSignature=false show --quiet 4633f4ad5165d7aa27cbbcbc0a719ef942fbec01 --format=...
+[2023-06-19 00:20:23.649] > git diff --name-status --find-renames --diff-filter=AMDR -z 4633f4ad5165d7aa27cbbcbc0a719ef942fbec01^ 4633f4ad5165d7aa27cbbcbc0a719ef942fbec01
+[2023-06-19 00:20:23.655] > git diff --numstat --find-renames --diff-filter=AMDR -z 4633f4ad5165d7aa27cbbcbc0a719ef942fbec01^ 4633f4ad5165d7aa27cbbcbc0a719ef942fbec01
+[2023-06-19 00:20:34.206] > git revert --no-edit 4633f4ad5165d7aa27cbbcbc0a719ef942fbec01
+[2023-06-19 00:20:41.078] > git branch -a --no-color
+[2023-06-19 00:20:41.081] > git remote
+[2023-06-19 00:20:41.083] > git reflog --format=... refs/stash --
+[2023-06-19 00:20:41.089] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes 77482fd6227c47bbdb15f0d9643c04958823f4fd 92950484025a152af78952300d2d58a66850a4ed HEAD --
+[2023-06-19 00:20:41.091] > git show-ref -d --head
+[2023-06-19 00:20:41.095] > git status --untracked-files=all --porcelain
+[2023-06-19 00:20:49.701] > git revert --no-edit 4633f4ad5165d7aa27cbbcbc0a719ef942fbec01
+[2023-06-19 00:20:49.710] > git branch -a --no-color
+[2023-06-19 00:20:49.713] > git remote
+[2023-06-19 00:20:49.716] > git reflog --format=... refs/stash --
+[2023-06-19 00:20:49.722] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes 77482fd6227c47bbdb15f0d9643c04958823f4fd 92950484025a152af78952300d2d58a66850a4ed HEAD --
+[2023-06-19 00:20:49.725] > git show-ref -d --head
+[2023-06-19 00:20:49.729] > git status --untracked-files=all --porcelain
+[2023-06-19 00:20:51.114] > git -c log.showSignature=false show --quiet f5f782fdb5fffa88e73c28a46369f65569d75366 --format=...
+[2023-06-19 00:20:51.122] > git diff --name-status --find-renames --diff-filter=AMDR -z f5f782fdb5fffa88e73c28a46369f65569d75366^ f5f782fdb5fffa88e73c28a46369f65569d75366
+[2023-06-19 00:20:51.130] > git diff --numstat --find-renames --diff-filter=AMDR -z f5f782fdb5fffa88e73c28a46369f65569d75366^ f5f782fdb5fffa88e73c28a46369f65569d75366
+[2023-06-19 00:20:54.095] Stopped watching repo: /home/codedenma/personal/adv360-config
+[2023-06-19 00:21:06.633] > git branch -a --no-color
+[2023-06-19 00:21:06.636] > git remote
+[2023-06-19 00:21:06.640] > git reflog --format=... refs/stash --
+[2023-06-19 00:21:06.641] Started watching repo: /home/codedenma/personal/adv360-config
+[2023-06-19 00:21:06.646] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes 77482fd6227c47bbdb15f0d9643c04958823f4fd 92950484025a152af78952300d2d58a66850a4ed HEAD --
+[2023-06-19 00:21:06.649] > git show-ref -d --head
+[2023-06-19 00:21:06.653] > git status --untracked-files=all --porcelain
+[2023-06-19 00:21:08.315] Stopped watching repo: /home/codedenma/personal/adv360-config
+[2023-06-19 00:21:30.467] > git branch -a --no-color
+[2023-06-19 00:21:30.470] > git remote
+[2023-06-19 00:21:30.474] > git reflog --format=... refs/stash --
+[2023-06-19 00:21:30.475] Started watching repo: /home/codedenma/personal/adv360-config
+[2023-06-19 00:21:30.485] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes 77482fd6227c47bbdb15f0d9643c04958823f4fd 92950484025a152af78952300d2d58a66850a4ed HEAD --
+[2023-06-19 00:21:30.487] > git show-ref -d --head
+[2023-06-19 00:21:30.492] > git status --untracked-files=all --porcelain
+[2023-06-19 00:21:36.733] > git checkout f5f782fdb5fffa88e73c28a46369f65569d75366
+[2023-06-19 00:21:36.740] > git branch -a --no-color
+[2023-06-19 00:21:36.744] > git remote
+[2023-06-19 00:21:36.747] > git reflog --format=... refs/stash --
+[2023-06-19 00:21:36.753] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes 77482fd6227c47bbdb15f0d9643c04958823f4fd 92950484025a152af78952300d2d58a66850a4ed HEAD --
+[2023-06-19 00:21:36.756] > git show-ref -d --head
+[2023-06-19 00:21:36.761] > git status --untracked-files=all --porcelain
+[2023-06-19 00:21:37.970] > git -c log.showSignature=false show --quiet f5f782fdb5fffa88e73c28a46369f65569d75366 --format=...
+[2023-06-19 00:21:37.974] > git diff --name-status --find-renames --diff-filter=AMDR -z f5f782fdb5fffa88e73c28a46369f65569d75366^ f5f782fdb5fffa88e73c28a46369f65569d75366
+[2023-06-19 00:21:37.977] > git diff --numstat --find-renames --diff-filter=AMDR -z f5f782fdb5fffa88e73c28a46369f65569d75366^ f5f782fdb5fffa88e73c28a46369f65569d75366
+[2023-06-19 00:21:38.674] > git -c log.showSignature=false show --quiet f5f782fdb5fffa88e73c28a46369f65569d75366 --format=...
+[2023-06-19 00:21:38.680] > git diff --name-status --find-renames --diff-filter=AMDR -z f5f782fdb5fffa88e73c28a46369f65569d75366^ f5f782fdb5fffa88e73c28a46369f65569d75366
+[2023-06-19 00:21:38.686] > git diff --numstat --find-renames --diff-filter=AMDR -z f5f782fdb5fffa88e73c28a46369f65569d75366^ f5f782fdb5fffa88e73c28a46369f65569d75366
+[2023-06-19 00:21:43.428] Stopped watching repo: /home/codedenma/personal/adv360-config
+[2023-06-19 00:35:43.710] > git branch -a --no-color
+[2023-06-19 00:35:43.713] > git remote
+[2023-06-19 00:35:43.717] > git reflog --format=... refs/stash --
+[2023-06-19 00:35:43.719] Started watching repo: /home/codedenma/personal/adv360-config
+[2023-06-19 00:35:43.726] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes 77482fd6227c47bbdb15f0d9643c04958823f4fd 92950484025a152af78952300d2d58a66850a4ed HEAD --
+[2023-06-19 00:35:43.730] > git show-ref -d --head
+[2023-06-19 00:35:43.735] > git status --untracked-files=all --porcelain
+[2023-06-19 00:35:50.415] > git -c log.showSignature=false show --quiet 1fcc3d0fc254fe9c3cbb6303c57bc1a410b6abe2 --format=...
+[2023-06-19 00:35:50.419] > git diff --name-status --find-renames --diff-filter=AMDR -z 1fcc3d0fc254fe9c3cbb6303c57bc1a410b6abe2^ 1fcc3d0fc254fe9c3cbb6303c57bc1a410b6abe2
+[2023-06-19 00:35:50.422] > git diff --numstat --find-renames --diff-filter=AMDR -z 1fcc3d0fc254fe9c3cbb6303c57bc1a410b6abe2^ 1fcc3d0fc254fe9c3cbb6303c57bc1a410b6abe2
+[2023-06-19 00:36:34.084] > git branch -a --no-color
+[2023-06-19 00:36:34.094] > git remote
+[2023-06-19 00:36:34.101] > git reflog --format=... refs/stash --
+[2023-06-19 00:36:34.112] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes 77482fd6227c47bbdb15f0d9643c04958823f4fd 92950484025a152af78952300d2d58a66850a4ed HEAD --
+[2023-06-19 00:36:34.118] > git show-ref -d --head
+[2023-06-19 00:36:34.127] > git status --untracked-files=all --porcelain
+[2023-06-19 00:36:37.690] Stopped watching repo: /home/codedenma/personal/adv360-config
+[2023-06-19 00:37:22.492] > git branch -a --no-color
+[2023-06-19 00:37:22.495] > git remote
+[2023-06-19 00:37:22.498] > git reflog --format=... refs/stash --
+[2023-06-19 00:37:22.499] Started watching repo: /home/codedenma/personal/adv360-config
+[2023-06-19 00:37:22.505] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes 77482fd6227c47bbdb15f0d9643c04958823f4fd 92950484025a152af78952300d2d58a66850a4ed HEAD --
+[2023-06-19 00:37:22.508] > git show-ref -d --head
+[2023-06-19 00:37:22.512] > git status --untracked-files=all --porcelain
+[2023-06-19 00:37:25.392] > git branch --no-color
+[2023-06-19 00:37:25.396] > git remote
+[2023-06-19 00:37:25.399] > git reflog --format=... refs/stash --
+[2023-06-19 00:37:25.406] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags 77482fd6227c47bbdb15f0d9643c04958823f4fd 92950484025a152af78952300d2d58a66850a4ed HEAD --
+[2023-06-19 00:37:25.410] > git show-ref --heads --tags -d --head
+[2023-06-19 00:37:25.415] > git status --untracked-files=all --porcelain
+[2023-06-19 00:37:28.082] > git -c log.showSignature=false show --quiet 77482fd6227c47bbdb15f0d9643c04958823f4fd --format=...
+[2023-06-19 00:37:28.086] > git diff --name-status --find-renames --diff-filter=AMDR -z 77482fd6227c47bbdb15f0d9643c04958823f4fd^ 77482fd6227c47bbdb15f0d9643c04958823f4fd
+[2023-06-19 00:37:28.089] > git diff --numstat --find-renames --diff-filter=AMDR -z 77482fd6227c47bbdb15f0d9643c04958823f4fd^ 77482fd6227c47bbdb15f0d9643c04958823f4fd
+[2023-06-19 00:37:32.557] > git branch --no-color
+[2023-06-19 00:37:32.560] > git remote
+[2023-06-19 00:37:32.563] > git reflog --format=... refs/stash --
+[2023-06-19 00:37:32.572] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags 77482fd6227c47bbdb15f0d9643c04958823f4fd 92950484025a152af78952300d2d58a66850a4ed HEAD --
+[2023-06-19 00:37:32.575] > git show-ref --heads --tags -d --head
+[2023-06-19 00:37:32.580] > git status --untracked-files=all --porcelain
+[2023-06-19 00:38:01.216] > git branch --no-color
+[2023-06-19 00:38:01.232] > git remote
+[2023-06-19 00:38:01.248] > git reflog --format=... refs/stash --
+[2023-06-19 00:38:01.270] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags 77482fd6227c47bbdb15f0d9643c04958823f4fd 92950484025a152af78952300d2d58a66850a4ed HEAD --
+[2023-06-19 00:38:01.273] > git show-ref --heads --tags -d --head
+[2023-06-19 00:38:01.277] > git status --untracked-files=all --porcelain
+[2023-06-19 00:38:09.641] Stopped watching repo: /home/codedenma/personal/adv360-config
+[2023-06-19 00:42:46.603] > git branch --no-color
+[2023-06-19 00:42:46.606] > git remote
+[2023-06-19 00:42:46.609] > git reflog --format=... refs/stash --
+[2023-06-19 00:42:46.610] Started watching repo: /home/codedenma/personal/adv360-config
+[2023-06-19 00:42:46.617] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags 77482fd6227c47bbdb15f0d9643c04958823f4fd 92950484025a152af78952300d2d58a66850a4ed HEAD --
+[2023-06-19 00:42:46.620] > git show-ref --heads --tags -d --head
+[2023-06-19 00:42:46.624] > git status --untracked-files=all --porcelain
+[2023-06-19 00:42:57.259] > git branch --no-color
+[2023-06-19 00:42:57.261] > git remote
+[2023-06-19 00:42:57.264] > git reflog --format=... refs/stash --
+[2023-06-19 00:42:57.270] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags 77482fd6227c47bbdb15f0d9643c04958823f4fd 92950484025a152af78952300d2d58a66850a4ed HEAD --
+[2023-06-19 00:42:57.273] > git show-ref --heads --tags -d --head
+[2023-06-19 00:42:57.278] > git status --untracked-files=all --porcelain
+[2023-06-19 00:43:05.659] Stopped watching repo: /home/codedenma/personal/adv360-config
+[2023-06-19 00:44:24.889] > git branch --no-color
+[2023-06-19 00:44:24.892] > git remote
+[2023-06-19 00:44:24.896] > git reflog --format=... refs/stash --
+[2023-06-19 00:44:24.897] Started watching repo: /home/codedenma/personal/adv360-config
+[2023-06-19 00:44:24.903] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags 77482fd6227c47bbdb15f0d9643c04958823f4fd 92950484025a152af78952300d2d58a66850a4ed HEAD --
+[2023-06-19 00:44:24.906] > git show-ref --heads --tags -d --head
+[2023-06-19 00:44:24.911] > git status --untracked-files=all --porcelain
+[2023-06-19 00:44:26.786] > git -c log.showSignature=false show --quiet 77482fd6227c47bbdb15f0d9643c04958823f4fd --format=...
+[2023-06-19 00:44:26.789] > git diff --name-status --find-renames --diff-filter=AMDR -z 77482fd6227c47bbdb15f0d9643c04958823f4fd^ 77482fd6227c47bbdb15f0d9643c04958823f4fd
+[2023-06-19 00:44:26.793] > git diff --numstat --find-renames --diff-filter=AMDR -z 77482fd6227c47bbdb15f0d9643c04958823f4fd^ 77482fd6227c47bbdb15f0d9643c04958823f4fd
+[2023-06-19 00:44:30.588] > git revert --no-edit 77482fd6227c47bbdb15f0d9643c04958823f4fd
+[2023-06-19 00:44:35.911] Stopped watching repo: /home/codedenma/personal/adv360-config
+[2023-06-19 00:45:27.252] > git branch --no-color
+[2023-06-19 00:45:27.255] > git remote
+[2023-06-19 00:45:27.260] > git reflog --format=... refs/stash --
+[2023-06-19 00:45:27.261] Started watching repo: /home/codedenma/personal/adv360-config
+[2023-06-19 00:45:27.269] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags 77482fd6227c47bbdb15f0d9643c04958823f4fd 92950484025a152af78952300d2d58a66850a4ed HEAD --
+[2023-06-19 00:45:27.272] > git show-ref --heads --tags -d --head
+[2023-06-19 00:45:27.276] > git status --untracked-files=all --porcelain
+[2023-06-19 00:45:30.695] > git -c log.showSignature=false show --quiet 472efb21a19f015f6ee13bd555b0279e28db1e98 --format=...
+[2023-06-19 00:45:30.699] > git diff --name-status --find-renames --diff-filter=AMDR -z 472efb21a19f015f6ee13bd555b0279e28db1e98^ 472efb21a19f015f6ee13bd555b0279e28db1e98
+[2023-06-19 00:45:30.702] > git diff --numstat --find-renames --diff-filter=AMDR -z 472efb21a19f015f6ee13bd555b0279e28db1e98^ 472efb21a19f015f6ee13bd555b0279e28db1e98
+[2023-06-19 00:45:34.760] > git revert --no-edit 472efb21a19f015f6ee13bd555b0279e28db1e98
+[2023-06-19 00:45:49.186] Stopped watching repo: /home/codedenma/personal/adv360-config

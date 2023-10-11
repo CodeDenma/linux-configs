@@ -1,0 +1,8 @@
+{
+    "editor.fontSize": 20,
+    "editor.fontFamily": "'JetBrainsMono Nerd Font', 'Droid Sans Mono', 'monospace', monospace",
+    "terminal.integrated.fontSize": 16,
+    "terminal.integrated.fontFamily": "monospace",
+    "window.zoomLevel": 2,
+    "editor.minimap.enabled": false
+}

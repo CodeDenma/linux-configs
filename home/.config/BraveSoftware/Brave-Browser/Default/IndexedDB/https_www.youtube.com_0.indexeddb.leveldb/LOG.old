@@ -1,0 +1,12 @@
+2023/05/27-20:59:21.420 c88 Reusing MANIFEST /home/codedenma/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/05/27-20:59:21.421 c88 Recovering log #164
+2023/05/27-20:59:21.424 c88 Reusing old log /home/codedenma/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000164.log 
+2023/05/27-21:04:41.175 c88 Level-0 table #169: started
+2023/05/27-21:04:41.182 c88 Level-0 table #169: 1059607 bytes OK
+2023/05/27-21:04:41.184 c88 Delete type=0 #164
+2023/05/27-21:04:59.273 c88 Compacting 1@1 + 1@2 files
+2023/05/27-21:04:59.277 c88 Generated table #170@1: 686 keys, 64426 bytes
+2023/05/27-21:04:59.277 c88 Compacted 1@1 + 1@2 files => 64426 bytes
+2023/05/27-21:04:59.278 c88 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/05/27-21:04:59.278 c88 Delete type=2 #169
+2023/05/27-21:04:59.278 c88 Delete type=2 #166

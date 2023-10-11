@@ -1,0 +1,6 @@
+2023/05/27-20:59:20.822 3 Reusing MANIFEST /home/codedenma/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/MANIFEST-000001
+2023/05/27-20:59:20.823 3 Recovering log #23
+2023/05/27-20:59:20.824 3 Reusing old log /home/codedenma/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/000023.log 
+2023/05/27-21:45:02.741 3 Level-0 table #27: started
+2023/05/27-21:45:02.753 3 Level-0 table #27: 12833 bytes OK
+2023/05/27-21:45:02.756 3 Delete type=0 #23

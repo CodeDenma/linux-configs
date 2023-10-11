@@ -1,0 +1,32 @@
+2023/08/11-23:29:53.979 d23 Reusing MANIFEST /home/codedenma/.config/microsoft-edge/Default/Local Extension Settings/pdffkfellgipmhklpdmokmckkkfcopbh/MANIFEST-000001
+2023/08/11-23:29:53.979 d23 Recovering log #675
+2023/08/11-23:29:53.985 d23 Reusing old log /home/codedenma/.config/microsoft-edge/Default/Local Extension Settings/pdffkfellgipmhklpdmokmckkkfcopbh/000675.log 
+2023/08/11-23:29:56.435 d2f Level-0 table #679: started
+2023/08/11-23:29:56.445 d2f Level-0 table #679: 1652914 bytes OK
+2023/08/11-23:29:56.446 d2f Delete type=0 #675
+2023/08/11-23:30:04.500 d24 Level-0 table #681: started
+2023/08/11-23:30:04.518 d24 Level-0 table #681: 1652961 bytes OK
+2023/08/11-23:30:04.520 d24 Delete type=0 #678
+2023/08/11-23:30:12.458 d24 Level-0 table #683: started
+2023/08/11-23:30:12.476 d24 Level-0 table #683: 1652939 bytes OK
+2023/08/11-23:30:12.478 d24 Delete type=0 #680
+2023/08/11-23:30:12.479 d24 Compacting 4@0 + 2@1 files
+2023/08/11-23:30:12.506 d24 Generated table #684@0: 3 keys, 2569794 bytes
+2023/08/11-23:30:12.508 d24 Generated table #685@0: 1 keys, 82817 bytes
+2023/08/11-23:30:12.508 d24 Compacted 4@0 + 2@1 files => 2652611 bytes
+2023/08/11-23:30:12.510 d24 compacted to: files[ 0 2 1 0 0 0 0 ]
+2023/08/11-23:30:12.510 d24 Delete type=2 #637
+2023/08/11-23:30:12.510 d24 Delete type=2 #681
+2023/08/11-23:30:12.510 d24 Delete type=2 #674
+2023/08/11-23:30:12.510 d24 Delete type=2 #676
+2023/08/11-23:30:12.510 d24 Delete type=2 #679
+2023/08/11-23:30:12.510 d24 Delete type=2 #683
+2023/08/11-23:32:02.475 d24 Level-0 table #687: started
+2023/08/11-23:32:02.493 d24 Level-0 table #687: 1652948 bytes OK
+2023/08/11-23:32:02.495 d24 Delete type=0 #682
+2023/08/11-23:34:01.454 d24 Level-0 table #689: started
+2023/08/11-23:34:01.472 d24 Level-0 table #689: 1652959 bytes OK
+2023/08/11-23:34:01.474 d24 Delete type=0 #686
+2023/08/12-02:56:01.666 d24 Level-0 table #691: started
+2023/08/12-02:56:01.684 d24 Level-0 table #691: 1652972 bytes OK
+2023/08/12-02:56:01.686 d24 Delete type=0 #688

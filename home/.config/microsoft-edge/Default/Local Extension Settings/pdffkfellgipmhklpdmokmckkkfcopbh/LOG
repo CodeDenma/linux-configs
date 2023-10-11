@@ -1,0 +1,144 @@
+2023/08/12-12:45:35.164 272b Reusing MANIFEST /home/codedenma/.config/microsoft-edge/Default/Local Extension Settings/pdffkfellgipmhklpdmokmckkkfcopbh/MANIFEST-000001
+2023/08/12-12:45:35.164 272b Recovering log #690
+2023/08/12-12:45:35.169 272b Reusing old log /home/codedenma/.config/microsoft-edge/Default/Local Extension Settings/pdffkfellgipmhklpdmokmckkkfcopbh/000690.log 
+2023/08/12-12:45:37.683 2736 Level-0 table #694: started
+2023/08/12-12:45:37.693 2736 Level-0 table #694: 1653039 bytes OK
+2023/08/12-12:45:37.695 2736 Delete type=0 #690
+2023/08/12-12:45:37.695 2736 Compacting 4@0 + 1@1 files
+2023/08/12-12:45:37.729 2736 Generated table #695@0: 3 keys, 2569832 bytes
+2023/08/12-12:45:37.729 2736 Compacted 4@0 + 1@1 files => 2569832 bytes
+2023/08/12-12:45:37.731 2736 compacted to: files[ 0 2 1 0 0 0 0 ]
+2023/08/12-12:45:37.731 2736 Delete type=2 #689
+2023/08/12-12:45:37.731 2736 Delete type=2 #694
+2023/08/12-12:45:37.731 2736 Delete type=2 #687
+2023/08/12-12:45:37.731 2736 Delete type=2 #691
+2023/08/12-12:45:37.731 2736 Delete type=2 #684
+2023/08/12-12:47:37.499 272b Level-0 table #697: started
+2023/08/12-12:47:37.521 272b Level-0 table #697: 1653114 bytes OK
+2023/08/12-12:47:37.534 272b Delete type=0 #693
+2023/08/12-13:02:23.629 272b Level-0 table #699: started
+2023/08/12-13:02:23.648 272b Level-0 table #699: 1653143 bytes OK
+2023/08/12-13:02:23.649 272b Delete type=0 #696
+2023/08/12-14:44:29.995 272b Level-0 table #701: started
+2023/08/12-14:44:30.013 272b Level-0 table #701: 1653197 bytes OK
+2023/08/12-14:44:30.015 272b Delete type=0 #698
+2023/08/12-15:25:56.599 272b Level-0 table #703: started
+2023/08/12-15:25:56.619 272b Level-0 table #703: 1653203 bytes OK
+2023/08/12-15:25:56.620 272b Delete type=0 #700
+2023/08/12-15:25:56.621 272b Compacting 4@0 + 1@1 files
+2023/08/12-15:25:56.656 272b Generated table #704@0: 3 keys, 2569855 bytes
+2023/08/12-15:25:56.656 272b Compacted 4@0 + 1@1 files => 2569855 bytes
+2023/08/12-15:25:56.658 272b compacted to: files[ 0 2 1 0 0 0 0 ]
+2023/08/12-15:25:56.658 272b Delete type=2 #695
+2023/08/12-15:25:56.658 272b Delete type=2 #701
+2023/08/12-15:25:56.658 272b Delete type=2 #703
+2023/08/12-15:25:56.658 272b Delete type=2 #699
+2023/08/12-15:25:56.658 272b Delete type=2 #697
+2023/08/12-15:26:44.639 272b Level-0 table #706: started
+2023/08/12-15:26:44.660 272b Level-0 table #706: 1653235 bytes OK
+2023/08/12-15:26:44.662 272b Delete type=0 #702
+2023/08/12-15:27:50.282 272b Level-0 table #708: started
+2023/08/12-15:27:50.301 272b Level-0 table #708: 1653253 bytes OK
+2023/08/12-15:27:50.303 272b Delete type=0 #705
+2023/08/12-15:28:33.986 272b Level-0 table #710: started
+2023/08/12-15:28:33.997 272b Level-0 table #710: 1653266 bytes OK
+2023/08/12-15:28:33.998 272b Delete type=0 #707
+2023/08/12-15:29:34.643 272b Level-0 table #712: started
+2023/08/12-15:29:34.661 272b Level-0 table #712: 1653268 bytes OK
+2023/08/12-15:29:34.663 272b Delete type=0 #709
+2023/08/12-15:29:34.663 272b Compacting 4@0 + 1@1 files
+2023/08/12-15:29:34.696 272b Generated table #713@0: 3 keys, 2569864 bytes
+2023/08/12-15:29:34.697 272b Compacted 4@0 + 1@1 files => 2569864 bytes
+2023/08/12-15:29:34.698 272b compacted to: files[ 0 2 1 0 0 0 0 ]
+2023/08/12-15:29:34.698 272b Delete type=2 #706
+2023/08/12-15:29:34.698 272b Delete type=2 #712
+2023/08/12-15:29:34.698 272b Delete type=2 #708
+2023/08/12-15:29:34.698 272b Delete type=2 #704
+2023/08/12-15:29:34.698 272b Delete type=2 #710
+2023/08/12-16:30:25.657 272b Level-0 table #715: started
+2023/08/12-16:30:25.676 272b Level-0 table #715: 1653284 bytes OK
+2023/08/12-16:30:25.689 272b Delete type=0 #711
+2023/08/12-16:31:34.889 272b Level-0 table #717: started
+2023/08/12-16:31:34.911 272b Level-0 table #717: 1653341 bytes OK
+2023/08/12-16:31:34.913 272b Delete type=0 #714
+2023/08/12-16:32:23.804 272b Level-0 table #719: started
+2023/08/12-16:32:23.822 272b Level-0 table #719: 1653346 bytes OK
+2023/08/12-16:32:23.823 272b Delete type=0 #716
+2023/08/12-16:33:33.660 272b Level-0 table #721: started
+2023/08/12-16:33:33.670 272b Level-0 table #721: 1653356 bytes OK
+2023/08/12-16:33:33.672 272b Delete type=0 #718
+2023/08/12-16:33:33.673 272b Compacting 4@0 + 1@1 files
+2023/08/12-16:33:33.705 272b Generated table #722@0: 3 keys, 2569879 bytes
+2023/08/12-16:33:33.705 272b Compacted 4@0 + 1@1 files => 2569879 bytes
+2023/08/12-16:33:33.707 272b compacted to: files[ 0 2 1 0 0 0 0 ]
+2023/08/12-16:33:33.707 272b Delete type=2 #719
+2023/08/12-16:33:33.707 272b Delete type=2 #715
+2023/08/12-16:33:33.707 272b Delete type=2 #721
+2023/08/12-16:33:33.707 272b Delete type=2 #713
+2023/08/12-16:33:33.707 272b Delete type=2 #717
+2023/08/12-16:34:22.467 272b Level-0 table #724: started
+2023/08/12-16:34:22.478 272b Level-0 table #724: 1653360 bytes OK
+2023/08/12-16:34:22.480 272b Delete type=0 #720
+2023/08/12-16:35:19.789 272b Level-0 table #726: started
+2023/08/12-16:35:19.812 272b Level-0 table #726: 1653354 bytes OK
+2023/08/12-16:35:19.814 272b Delete type=0 #723
+2023/08/12-16:35:32.446 272b Level-0 table #728: started
+2023/08/12-16:35:32.463 272b Level-0 table #728: 1653353 bytes OK
+2023/08/12-16:35:32.465 272b Delete type=0 #725
+2023/08/12-16:36:02.453 272b Level-0 table #730: started
+2023/08/12-16:36:02.471 272b Level-0 table #730: 1653314 bytes OK
+2023/08/12-16:36:02.473 272b Delete type=0 #727
+2023/08/12-16:36:02.474 272b Compacting 4@0 + 1@1 files
+2023/08/12-16:36:02.506 272b Generated table #731@0: 3 keys, 2569873 bytes
+2023/08/12-16:36:02.506 272b Compacted 4@0 + 1@1 files => 2569873 bytes
+2023/08/12-16:36:02.508 272b compacted to: files[ 0 2 1 0 0 0 0 ]
+2023/08/12-16:36:02.508 272b Delete type=2 #730
+2023/08/12-16:36:02.508 272b Delete type=2 #724
+2023/08/12-16:36:02.508 272b Delete type=2 #726
+2023/08/12-16:36:02.508 272b Delete type=2 #728
+2023/08/12-16:36:02.508 272b Delete type=2 #722
+2023/08/12-16:37:33.445 272b Level-0 table #733: started
+2023/08/12-16:37:33.468 272b Level-0 table #733: 1653292 bytes OK
+2023/08/12-16:37:33.470 272b Delete type=0 #729
+2023/08/12-16:42:14.526 272b Level-0 table #735: started
+2023/08/12-16:42:14.544 272b Level-0 table #735: 1653307 bytes OK
+2023/08/12-16:42:14.546 272b Delete type=0 #732
+2023/08/12-16:50:14.392 272a Level-0 table #737: started
+2023/08/12-16:50:14.403 272a Level-0 table #737: 1653317 bytes OK
+2023/08/12-16:50:14.405 272a Delete type=0 #734
+2023/08/12-16:51:41.065 272b Level-0 table #739: started
+2023/08/12-16:51:41.084 272b Level-0 table #739: 1653344 bytes OK
+2023/08/12-16:51:41.086 272b Delete type=0 #736
+2023/08/12-16:51:41.086 272b Compacting 4@0 + 1@1 files
+2023/08/12-16:51:41.119 272b Generated table #740@0: 3 keys, 2569880 bytes
+2023/08/12-16:51:41.120 272b Compacted 4@0 + 1@1 files => 2569880 bytes
+2023/08/12-16:51:41.121 272b compacted to: files[ 0 2 1 0 0 0 0 ]
+2023/08/12-16:51:41.122 272b Delete type=2 #737
+2023/08/12-16:51:41.122 272b Delete type=2 #735
+2023/08/12-16:51:41.122 272b Delete type=2 #733
+2023/08/12-16:51:41.122 272b Delete type=2 #739
+2023/08/12-16:51:41.122 272b Delete type=2 #731
+2023/08/12-16:53:50.077 272b Level-0 table #742: started
+2023/08/12-16:53:50.095 272b Level-0 table #742: 1653338 bytes OK
+2023/08/12-16:53:50.105 272b Delete type=0 #738
+2023/08/12-17:56:26.003 272b Level-0 table #744: started
+2023/08/12-17:56:26.018 272b Level-0 table #744: 1653373 bytes OK
+2023/08/12-17:56:26.019 272b Delete type=0 #741
+2023/08/12-17:57:54.021 272b Level-0 table #746: started
+2023/08/12-17:57:54.041 272b Level-0 table #746: 1653437 bytes OK
+2023/08/12-17:57:54.043 272b Delete type=0 #743
+2023/08/12-18:00:26.075 272b Level-0 table #748: started
+2023/08/12-18:00:26.094 272b Level-0 table #748: 1653492 bytes OK
+2023/08/12-18:00:26.096 272b Delete type=0 #745
+2023/08/12-18:00:26.097 272b Compacting 4@0 + 1@1 files
+2023/08/12-18:00:26.131 272b Generated table #749@0: 3 keys, 2569911 bytes
+2023/08/12-18:00:26.131 272b Compacted 4@0 + 1@1 files => 2569911 bytes
+2023/08/12-18:00:26.133 272b compacted to: files[ 0 2 1 0 0 0 0 ]
+2023/08/12-18:00:26.133 272b Delete type=2 #742
+2023/08/12-18:00:26.133 272b Delete type=2 #748
+2023/08/12-18:00:26.133 272b Delete type=2 #740
+2023/08/12-18:00:26.133 272b Delete type=2 #744
+2023/08/12-18:00:26.133 272b Delete type=2 #746
+2023/08/12-18:06:45.395 272b Level-0 table #751: started
+2023/08/12-18:06:45.406 272b Level-0 table #751: 1653444 bytes OK
+2023/08/12-18:06:45.407 272b Delete type=0 #747

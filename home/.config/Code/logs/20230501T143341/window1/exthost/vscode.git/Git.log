@@ -1,0 +1,25 @@
+2023-05-01 14:33:42.617 [info] Log level: Info
+2023-05-01 14:33:42.617 [info] Validating found git in: "git"
+2023-05-01 14:33:42.617 [info] Using git "2.34.1" from "git"
+2023-05-01 14:33:42.617 [info] > git rev-parse --show-toplevel [4ms]
+2023-05-01 14:33:42.617 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2023-05-01 14:33:42.617 [info] Open repository: /home/codedenma/courses/my-first-app
+2023-05-01 14:33:42.617 [info] > git rev-parse --show-toplevel [4ms]
+2023-05-01 14:33:42.617 [info] > git config --get commit.template [5ms]
+2023-05-01 14:33:42.617 [info] > git rev-parse --show-toplevel [8ms]
+2023-05-01 14:33:42.617 [info] > git rev-parse --show-toplevel [9ms]
+2023-05-01 14:33:42.617 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [6ms]
+2023-05-01 14:33:42.617 [info] > git status -z -uall [2ms]
+2023-05-01 14:33:43.129 [info] > git check-ignore -v -z --stdin [22ms]
+2023-05-01 14:33:49.003 [info] > git check-ignore -v -z --stdin [1ms]
+2023-05-01 14:33:53.079 [info] > git show --textconv :.gitignore [7ms]
+2023-05-01 14:33:53.080 [info] > git ls-files --stage -- /home/codedenma/courses/my-first-app/.gitignore [2ms]
+2023-05-01 14:33:53.083 [info] > git cat-file -s 6ad4163ac147b7ba57d47fac14b6d2729ab30aa0 [1ms]
+2023-05-01 14:33:55.725 [info] > git check-ignore -v -z --stdin [1ms]
+2023-05-01 14:33:57.667 [info] Log level: Info
+2023-05-01 14:33:57.667 [info] Validating found git in: "git"
+2023-05-01 14:33:57.667 [info] Using git "2.34.1" from "git"
+2023-05-01 14:33:57.667 [info] > git rev-parse --show-toplevel [2ms]
+2023-05-01 14:33:57.667 [info] > git rev-parse --show-toplevel [1ms]
+2023-05-01 14:33:57.726 [info] > git rev-parse --show-toplevel [9ms]
+2023-05-01 14:33:57.801 [info] > git rev-parse --show-toplevel [1ms]

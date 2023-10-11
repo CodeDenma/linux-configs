@@ -1,0 +1,6 @@
+2023/09/10-15:16:25.002 3 Reusing MANIFEST /home/codedenma/.config/chromium/Default/Local Storage/leveldb/MANIFEST-000001
+2023/09/10-15:16:25.002 3 Recovering log #4
+2023/09/10-15:16:25.003 3 Reusing old log /home/codedenma/.config/chromium/Default/Local Storage/leveldb/000004.log 
+2023/09/10-15:17:29.998 5 Level-0 table #8: started
+2023/09/10-15:17:30.049 5 Level-0 table #8: 182578 bytes OK
+2023/09/10-15:17:30.054 5 Delete type=0 #4

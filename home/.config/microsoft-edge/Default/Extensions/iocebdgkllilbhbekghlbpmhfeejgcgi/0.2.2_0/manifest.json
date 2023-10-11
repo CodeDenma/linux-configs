@@ -1,0 +1,13 @@
+{
+   "background": {
+      "persistent": false,
+      "scripts": [ "background.js" ]
+   },
+   "description": "Add a numeric prefix before the tab's title.",
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAltxnjd4BFRj4nSu54lZw5BT6TODODKZ6SG6GKQxUIJJCKO2gaEIc15Y2FLNJb25hP4QVfMWaRdBwyydmvfrPE/6lfu0l00psDEzQFVCq+/xSYhfA2cgq6T6ZcB/+NAxjj8vjg7ehGKuBeL7QSEj1JC67603fsoJjnr0wdbK1rhW7magNq9GSMxwwr7lABfCkj5xgBvKMKwVXVyqDXKfmJOVkrKogqLwro6ZbCm1cDf6BvIkkn/Ub/MoqvEcKGJrOp1UclpNtrsW6F+YSt7z+i/gvjxvxxEs5lNjXbh5Zq0ARb2RNfURpAODw2iU1/t59PTaHbfLb8fGbpY9u2i+lSwIDAQAB",
+   "manifest_version": 2,
+   "name": "Numbered Tabs",
+   "permissions": [ "tabs", "\u003Call_urls>" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "0.2.2"
+}

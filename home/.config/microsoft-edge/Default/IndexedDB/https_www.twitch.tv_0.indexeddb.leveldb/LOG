@@ -1,0 +1,6 @@
+2023/06/14-01:16:56.125 2826 Creating DB /home/codedenma/.config/microsoft-edge/Default/IndexedDB/https_www.twitch.tv_0.indexeddb.leveldb since it was missing.
+2023/06/14-01:16:56.128 2826 Reusing MANIFEST /home/codedenma/.config/microsoft-edge/Default/IndexedDB/https_www.twitch.tv_0.indexeddb.leveldb/MANIFEST-000001
+2023/06/14-01:17:28.161 2827 Level-0 table #5: started
+2023/06/14-01:17:28.163 2827 Level-0 table #5: 845 bytes OK
+2023/06/14-01:17:28.166 2827 Delete type=0 #3
+2023/06/14-01:17:28.166 2827 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
